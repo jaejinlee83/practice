@@ -1,0 +1,807 @@
+>gi|225847840:826971-828485 Sulfurihydrogenibium azorense Az-Fu1, complete genome
+>gi|271961609:2067478-2068992 Streptosporangium roseum DSM 43021, complete genome
+>gi|260752245:1485410-1486888 Zymomonas mobilis subsp. mobilis NCIMB 11163, complete genome
+>gi|299768250:18771-20298 Acinetobacter oleivorans DR1, complete genome
+>gi|222106127:931009-932479 Agrobacterium vitis S4 chromosome 2, complete sequence
+>gi|407936729:1846982-1848504 Acidovorax sp. KKS102, complete genome
+>gi|552536492:6-1462 Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence
+>gi|378448274:289884-291415 Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S chromosome, complete genome
+>gi|121602919:425432-426951 Polaromonas naphthalenivorans CJ2, complete genome
+>gi|56412276:293326-294857 Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150 chromosome, complete genome
+>gi|387891255:119813-121339 Pseudomonas fluorescens A506, complete genome
+>gi|294009986:68198-69674 Sphingobium japonicum UT26S DNA, chromosome 1, complete genome
+>gi|528826861:62608-64078 Rhizobium etli bv. mimosae str. Mim1, complete genome
+>gi|295815281:413761-415294 Legionella pneumophila str. Corby, complete genome
+>gi|389861738:186076-187585 Modestobacter marinus str. BC501 chromosome, complete genome
+>gi|384184088:9198-10739 Bacillus thuringiensis serovar chinensis CT-43, complete genome
+>gi|449092714:10031-11570 Bacillus subtilis XF-1, complete genome
+>gi|325957759:490459-491940 Methanobacterium sp. AL-21 chromosome, complete genome
+>gi|58036263:76646-78159 Corynebacterium glutamicum ATCC 13032 chromosome, complete genome
+>gi|344205421:365930-367464 Stenotrophomonas maltophilia JV3, complete genome
+>gi|189218017:892023-893536 Methylacidiphilum infernorum V4, complete genome
+>gi|523521389:56184-57710 Acinetobacter baumannii BJAB07104, complete genome
+>gi|269954810:206174-207687 Xylanimonas cellulosilytica DSM 15894, complete genome
+>gi|256419057:1700266-1701781 Chitinophaga pinensis DSM 2588, complete genome
+>gi|162448269:3027064-3028610 Sorangium cellulosum 'So ce 56' complete genome
+>gi|322830733:403816-405347 Rahnella sp. Y9602, complete genome
+>gi|340785197:829195-830715 Collimonas fungivorans Ter331, complete genome
+>gi|339630083:1474820-1476341 Mycobacterium africanum GM041182 complete genome
+>gi|146291111:38746-40278 Shewanella putrefaciens CN-32, complete genome
+>gi|376286528:737796-739304 Corynebacterium diphtheriae BH8, complete genome
+>gi|530316970:69109-70561 Paracoccus aminophilus JCM 7686, complete genome
+>gi|404285367:236654-238193 Listeria monocytogenes serotype 7 str. SLCC2482, complete genome
+>gi|434390831:4787967-4789447 Gloeocapsa sp. PCC 7428, complete genome
+>gi|313199777:74818-76352 Methylovorus sp. MP688, complete genome
+>gi|405754079:235145-236684 Listeria monocytogenes strain SLCC2540, serotype 3b
+>gi|311066968:95763-97302 Bacillus atrophaeus 1942, complete genome
+>gi|82542618:209752-211283 Shigella boydii Sb227, complete genome
+>gi|172059067:298923-300445 Burkholderia ambifaria MC40-6 chromosome 1, complete sequence
+>gi|123440403:17484-19016 Yersinia enterocolitica subsp. enterocolitica 8081 chromosome, complete genome
+>gi|300087139:346272-347760 Dehalogenimonas lykanthroporepellens BL-DC-9, complete genome
+>gi|218437013:1328840-1330320 Cyanothece sp. PCC 7424, complete genome
+>gi|657830698:5687302-5688813 Rhodococcus sp. BCP1 chromosome, whole genome shotgun sequence
+>gi|239904639:391216-392754 Desulfovibrio magneticus RS-1 DNA, complete genome
+>gi|82701135:562627-564152 Nitrosospira multiformis ATCC 25196, complete genome
+>gi|428778395:886635-888113 Dactylococcopsis salina PCC 8305, complete genome
+>gi|119382757:58445-59897 Paracoccus denitrificans PD1222 chromosome 1, complete sequence
+>gi|147918682:2083318-2084789 Methanocella arvoryzae MRE50 chromosome, complete genome
+>gi|238892256:16085-17614 Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA, complete genome
+>gi|154243958:1013943-1015417 Xanthobacter autotrophicus Py2, complete genome
+>gi|404412106:234011-235550 Listeria monocytogenes strain SLCC7179, serotype 3a
+>gi|443640731:784276-785804 Pseudomonas syringae pv. syringae B64 chromosome, whole genome shotgun sequence
+>gi|386311792:38680-40212 Shewanella putrefaciens 200, complete genome
+>gi|226225406:1882863-1884376 Gemmatimonas aurantiaca T-27 DNA, complete genome
+>gi|282162670:106584-108051 Methanocella paludicola SANAE chromosome, complete genome
+>gi|428223461:235884-237361 Geitlerinema sp. PCC 7407, complete genome
+>gi|319785620:1425076-1426609 Pseudoxanthomonas suwonensis 11-1, complete genome
+>gi|15829254:227107-228638 Escherichia coli O157:H7 str. Sakai chromosome, complete genome
+>gi|384255905:406471-408003 Rahnella aquatilis HX2, complete genome
+>gi|431792069:96688-98341 Desulfitobacterium dichloroeliminans LMG P-21439, complete genome
+>gi|239916571:419931-421444 Micrococcus luteus NCTC 2665, complete genome
+>gi|76817237:2323911-2325431 Burkholderia pseudomallei 1710b chromosome II, complete sequence
+>gi|568185322:121486-123012 Pseudomonas monteilii SB3101, complete genome
+>gi|89255449:124676-126193 Francisella tularensis subsp. holarctica LVS complete genome
+>gi|271498578:231096-232628 Dickeya dadantii Ech586, complete genome
+>gi|339626328:165123-166657 Sulfobacillus acidophilus TPY, complete genome
+>gi|323527923:1681982-1683504 Burkholderia sp. CCGE1001 chromosome 2, complete sequence
+>gi|470160151:9817-11356 Bacillus subtilis subsp. subtilis 6051-HGW, complete genome
+>gi|337754017:458295-459818 Francisella sp. TX077308, complete genome
+>gi|170758191:9256-10757 Clostridium botulinum A3 str. Loch Maree, complete genome
+>gi|119960487:150564-152076 Arthrobacter aurescens TC1, complete genome
+>gi|89892746:237000-238653 Desulfitobacterium hafniense Y51 DNA, complete genome
+>gi|257091663:2600434-2601961 Candidatus Accumulibacter phosphatis clade IIA str. UW-1, complete genome
+>gi|182411826:2051332-2052879 Opitutus terrae PB90-1, complete genome
+>gi|560141539:1-1276 Pandoraea pnomenusa 3kgm, complete genome
+>gi|338729812:1920230-1921768 Thermotoga thermarum DSM 5069, complete genome
+>gi|254804028:142158-143688 Neisseria meningitidis alpha14 chromosome, complete genome
+>gi|409101468:302814-304464 Dehalobacter sp. DCA, complete genome
+>gi|78187984:102600-104090 Chlorobium chlorochromatii CaD3, complete genome
+>gi|379005799:165363-166895 Sulfobacillus acidophilus DSM 10332, complete genome
+>gi|221638099:2862188-2863644 Rhodobacter sphaeroides KD131 chromosome 1, complete sequence
+>gi|383785713:278160-279657 Fervidobacterium pennivorans DSM 9078, complete genome
+>gi|226309587:9492-11017 Brevibacillus brevis NBRC 100599 DNA, complete genome
+>gi|646828456:2931978-2933452 Agrobacterium tumefaciens WRT31 chromosome 1, whole genome shotgun sequence
+>gi|662858600:263883-265422 Listeria monocytogenes 08-5578, complete genome
+>gi|379704392:16618-18156 Streptococcus infantarius subsp. infantarius CJ18, complete genome
+>gi|15893298:9717-11212 Clostridium acetobutylicum ATCC 824 chromosome, complete genome
+>gi|334314770:3505810-3507284 Sinorhizobium meliloti AK83 chromosome 1, complete sequence
+>gi|392976867:277109-278638 Enterobacter cloacae subsp. dissolvens SDM, complete genome
+>gi|295687459:180208-181681 Caulobacter segnis ATCC 21756, complete genome
+>gi|471319476:5287569-5289084 Streptomyces davawensis JCM 4913, complete genome
+>gi|110798562:10173-11675 Clostridium perfringens ATCC 13124, complete genome
+>gi|116332681:86149-87704 Lactobacillus brevis ATCC 367, complete genome
+>gi|154173617:828708-830410 Campylobacter curvus 525.92, complete genome
+>gi|374298386:1899525-1901065 Desulfovibrio africanus str. Walvis Bay, complete genome
+>gi|400756305:684693-686238 Geobacter sulfurreducens PCA chromosome, complete genome
+>gi|222109225:1151264-1152782 Acidovorax ebreus TPSY, complete genome
+>gi|116688024:376972-378494 Burkholderia cenocepacia HI2424 chromosome 1, complete sequence
+>gi|470152509:228496-230028 Pectobacterium sp. SCC3193, complete genome
+>gi|116871422:193896-195435 Listeria welshimeri serovar 6b str. SLCC5334 complete genome
+>gi|392380513:538077-539235 Azospirillum brasilense Sp245, complete genome
+>gi|297563784:390882-392404 Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111 chromosome 2, complete sequence
+>gi|169830219:142716-144404 Candidatus Desulforudis audaxviator MP104C, complete genome
+>gi|511542232:509662-511163 Flavobacterium psychrophilum JIP02/86 complete genome
+>gi|209542188:3749199-3750681 Gluconacetobacter diazotrophicus PAl 5, complete genome
+>gi|479316944:4036743-4038259 Streptomyces sp. PAMC26508, complete genome
+>gi|284988629:196073-197585 Geodermatophilus obscurus DSM 43160, complete genome
+>gi|357418851:442269-443789 Thermovirga lienii DSM 17291, complete genome
+>gi|172056045:10777-12328 Exiguobacterium sibiricum 255-15, complete genome
+>gi|290473094:49884-51416 Xenorhabdus bovienii SS-2004 chromosome, complete genome
+>gi|414561716:46112-47644 Shewanella oneidensis MR-1 chromosome, complete genome
+>gi|34495455:421229-422754 Chromobacterium violaceum ATCC 12472, complete genome
+>gi|222084201:67154-68624 Agrobacterium radiobacter K84 chromosome 1, complete sequence
+>gi|90421528:1456598-1458076 Rhodopseudomonas palustris BisB18, complete genome
+>gi|78060853:380344-381866 Burkholderia sp. 383, complete sequence
+>gi|255961261:121472-122998 Pseudomonas fluorescens Pf0-1, complete genome
+>gi|337289620:690558-692067 Corynebacterium ulcerans BR-AD22, complete genome
+>gi|317126741:13274-14818 Bacillus cellulosilyticus DSM 2522, complete genome
+>gi|392391692:134647-136203 Desulfitobacterium dehalogenans ATCC 51507, complete genome
+>gi|152994043:1190884-1192413 Marinomonas sp. MWYL1 chromosome, complete genome
+>gi|300869639:1710297-1711799 Brachyspira pilosicoli 95/1000, complete genome
+>gi|108810166:12269-13801 Yersinia pestis Nepal516 chromosome, complete genome
+>gi|154684518:9766-11305 Bacillus amyloliquefaciens subsp. plantarum str. FZB42, complete genome
+>gi|189909570:1126491-1127980 Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)' chromosome I, complete sequence
+>gi|386845069:155655-157161 Actinoplanes sp. SE50/110, complete genome
+>gi|557220722:191898-193424 Pseudomonas sp. VLB120, complete genome
+>gi|386627502:231049-232359 Escherichia coli str. 'clone D i2', complete genome
+>gi|74316018:478075-479599 Thiobacillus denitrificans ATCC 25259, complete genome
+>gi|409101469:368308-369958 Dehalobacter sp. CF, complete genome
+>gi|383318453:514685-516154 Methanocella conradii HZ254 chromosome, complete genome
+>gi|77358712:165582-167111 Coxiella burnetii RSA 493 chromosome, complete genome
+>gi|110645304:722101-723626 Pseudomonas aeruginosa PAO1 chromosome, complete genome
+>gi|549449290:166208-167729 Ralstonia pickettii DTP0602 chromosome 2, complete sequence
+>gi|378953804:291148-292679 Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078, complete genome
+>gi|563686363:698488-699961 Hyphomicrobium nitrativorans NL23, complete genome
+>gi|52783855:9711-11250 Bacillus licheniformis DSM 13 = ATCC 14580, complete genome
+>gi|91774356:64115-65647 Methylobacillus flagellatus KT, complete genome
+>gi|30018278:9193-10734 Bacillus cereus ATCC 14579 chromosome, complete genome
+>gi|556555759:9766-11305 Bacillus amyloliquefaciens CC178, complete genome
+>gi|111017022:4138445-4139952 Rhodococcus jostii RHA1, complete genome
+>gi|316994385:11548-13089 Bacillus pseudofirmus OF4, complete genome
+>gi|333992987:939623-941153 Treponema azotonutricium ZAS-9, complete genome
+>gi|469816339:434785-436319 Rhodanobacter sp. 2APBS1, complete genome
+>gi|556503834:223776-225307 Escherichia coli str. K-12 substr. MG1655, complete genome
+>gi|108756767:376446-377973 Myxococcus xanthus DK 1622, complete genome
+>gi|269124277:898385-899905 Thermomonospora curvata DSM 43183, complete genome
+>gi|387823261:226609-228140 Escherichia coli BL21(DE3), complete genome
+>gi|53717639:1431774-1433294 Burkholderia pseudomallei K96243 chromosome 1, complete sequence
+>gi|305672698:9757-11296 Bacillus subtilis subsp. spizizenii str. W23, complete genome
+>gi|16763390:289184-290715 Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome, complete genome
+>gi|16758993:287484-289015 Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+>gi|300721089:48433-49965 Xenorhabdus nematophila ATCC 19061 chromosome, complete genome
+>gi|384263631:9765-11304 Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2 complete genome
+>gi|386014600:201000-202531 Pantoea ananatis AJ13355 DNA, complete genome
+>gi|326314823:1634335-1635853 Acidovorax avenae subsp. avenae ATCC 19860, complete genome
+>gi|50196905:9313-10854 Bacillus anthracis str. 'Ames Ancestor', complete genome
+>gi|409187964:1778722-1780192 Methanolobus psychrophilus R15 chromosome, complete genome
+>gi|386045634:241022-242561 Listeria monocytogenes J0161, complete genome
+>gi|521458881:3603980-3605526 Sorangium cellulosum So0157-2, complete genome
+>gi|52840256:359866-361399 Legionella pneumophila subsp. pneumophila str. Philadelphia 1 chromosome, complete genome
+>gi|255961476:1123473-1124984 Heliobacterium modesticaldum Ice1, complete genome
+>gi|326797444:3359510-3361021 Sphingobacterium sp. 21, complete genome
+>gi|307725550:2407818-2409340 Burkholderia sp. CCGE1003 chromosome 2, complete sequence
+>gi|428216284:2484742-2486218 Pseudanabaena sp. PCC 7367, complete genome
+>gi|334342451:586309-587786 Sphingobium chlorophenolicum L-1 chromosome 2, complete sequence
+>gi|194363778:353032-354568 Stenotrophomonas maltophilia R551-3, complete genome
+>gi|378958130:287484-289015 Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12, complete genome
+>gi|220915123:1495549-1497095 Anaeromyxobacter dehalogenans 2CP-1, complete genome
+>gi|384514544:690803-692312 Corynebacterium ulcerans 809, complete genome
+>gi|251794036:11437-12972 Paenibacillus sp. JDR-2, complete genome
+>gi|330819133:586980-588502 Burkholderia gladioli BSR3 chromosome 2, complete sequence
+>gi|161519706:323519-325041 Burkholderia multivorans ATCC 17616 chromosome 2, complete sequence
+>gi|340792956:69612-71118 Corynebacterium variabile DSM 44702, complete genome
+>gi|209883160:770289-771767 Oligotropha carboxidovorans OM5 strain OM5, complete genome
+>gi|440224888:69022-70492 Rhizobium tropici CIAT 899, complete genome
+>gi|162446888:73502-74995 Acholeplasma laidlawii PG-8A, complete genome
+>gi|325980881:659951-661478 Nitrosomonas sp. AL212, complete genome
+>gi|186471973:2171564-2173084 Burkholderia phymatum STM815 chromosome 2, complete sequence
+>gi|376256018:680947-682456 Corynebacterium diphtheriae VA01, complete genome
+>gi|384162404:9771-11310 Bacillus amyloliquefaciens LL3, complete genome
+>gi|50083297:18414-19941 Acinetobacter sp. ADP1 complete genome
+>gi|284993440:263883-265422 Listeria monocytogenes 08-5923, complete genome
+>gi|482897536:177426-178951 Azotobacter vinelandii CA6, complete genome
+>gi|148378011:9265-10766 Clostridium botulinum A str. ATCC 3502 chromosome, complete genome
+>gi|529235720:619301-620833 Proteus mirabilis BB2000, complete genome
+>gi|152968582:249505-251034 Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence
+>gi|257386085:1954831-1956299 Halomicrobium mukohataei DSM 12286 chromosome, complete genome
+>gi|83588874:147993-149550 Moorella thermoacetica ATCC 39073 chromosome, complete genome
+>gi|312193897:1247379-1248874 Frankia sp. EuI1c, complete genome
+>gi|315500818:2609211-2610715 Micromonospora sp. L5, complete genome
+>gi|499074415:1457744-1459266 Mycobacterium avium subsp. paratuberculosis MAP4, complete genome
+>gi|28867243:666732-668260 Pseudomonas syringae pv. tomato str. DC3000 chromosome, complete genome
+>gi|86156430:1361316-1362862 Anaeromyxobacter dehalogenans 2CP-C, complete genome
+>gi|434402184:279450-280927 Cylindrospermum stagnale PCC 7417, complete genome
+>gi|194733902:291605-293135 Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 chromosome, complete genome
+>gi|410687359:37517-39019 Campylobacter jejuni subsp. jejuni PT14, complete genome
+>gi|321311376:2221832-2223371 Bacillus subtilis BSn5, complete genome
+>gi|408355363:93742-95301 Amphibacillus xylanus NBRC 15112 DNA, complete genome
+>gi|153010078:456831-458303 Ochrobactrum anthropi ATCC 49188 chromosome 2, complete sequence
+>gi|104779316:115497-117023 Pseudomonas entomophila str. L48 chromosome,complete sequence
+>gi|521166214:248433-249964 Serratia plymuthica S13, complete genome
+>gi|160895450:723805-725327 Delftia acidovorans SPH-1, complete genome
+>gi|288932888:442635-444164 Klebsiella variicola At-22, complete genome
+>gi|481847813:4629897-4631426 Raoultella ornithinolytica B6, complete genome
+>gi|150395228:3463166-3464640 Sinorhizobium medicae WSM419 chromosome, complete genome
+>gi|162960844:5759349-5760864 Streptomyces avermitilis MA-4680 = NBRC 14893 DNA, complete genome
+>gi|75674199:638308-639786 Nitrobacter winogradskyi Nb-255, complete genome
+>gi|374992780:94163-95720 Desulfosporosinus orientis DSM 765, complete genome
+>gi|427705465:201746-203226 Nostoc sp. PCC 7107, complete genome
+>gi|146305042:1141985-1143510 Pseudomonas mendocina ymp, complete genome
+>gi|427711179:184484-185963 Synechococcus sp. PCC 6312, complete genome
+>gi|300781937:1295134-1296640 Amycolatopsis mediterranei U32 chromosome, complete genome
+>gi|339490182:1872397-1873936 Leuconostoc sp. C2, complete genome
+>gi|397665626:414073-415607 Legionella pneumophila subsp. pneumophila str. HL06041035 chromosome, complete genome
+>gi|403056439:217935-219467 Pectobacterium carotovorum subsp. carotovorum PCC21, complete genome
+>gi|392423459:91891-93448 Desulfosporosinus acidiphilus SJ4, complete genome
+>gi|78221228:1310042-1311587 Geobacter metallireducens GS-15, complete genome
+>gi|312137514:240051-241559 Rhodococcus equi 103S chromosome
+>gi|315499382:149903-151353 Asticcacaulis excentricus CB 48 chromosome 2, complete sequence
+>gi|307543589:259527-261054 Halomonas elongata DSM 2581, complete genome
+>gi|217963303:229710-231250 Listeria monocytogenes HCC23, complete genome
+>gi|330831849:18890-20428 Streptococcus suis ST3, complete genome
+>gi|470176208:2311421-2312931 Ilumatobacter coccineus YM16-304 DNA, complete genome
+>gi|337744364:10599-12125 Paenibacillus mucilaginosus KNP414, complete genome
+>gi|556577981:36963-38465 Campylobacter coli 15-537360, complete genome
+>gi|170734517:782278-783800 Burkholderia cenocepacia MC0-3 chromosome 3, complete sequence
+>gi|229587578:119724-121250 Pseudomonas fluorescens SBW25 complete genome
+>gi|386038690:11938-13481 Paenibacillus polymyxa M1 main chromosome, complete genome
+>gi|296500838:9195-10736 Bacillus thuringiensis BMB171, complete genome
+>gi|558678294:9162-10703 Bacillus thuringiensis YBT-1518, complete genome
+>gi|488768999:9966-11462 Clostridium pasteurianum BC1, complete genome
+>gi|317151727:667863-669404 Desulfovibrio aespoeensis Aspo-2, complete genome
+>gi|550443072:236811-238340 Klebsiella pneumoniae CG43, complete genome
+>gi|386716467:395404-396938 Stenotrophomonas maltophilia D457 complete genome
+>gi|512647881:3030106-3031635 Enterobacter sp. R4-368, complete genome
+>gi|529222834:4844924-4846439 Streptomyces collinus Tu 365, complete genome
+>gi|386326719:252744-254275 Serratia sp. AS13, complete genome
+>gi|256827818:308765-310304 Desulfomicrobium baculatum DSM 4028, complete genome
+>gi|153934468:9280-10781 Clostridium botulinum A str. Hall chromosome, complete genome
+>gi|159184118:56747-58221 Agrobacterium fabrum str. C58 chromosome circular, complete sequence
+>gi|292486492:41030-42559 Erwinia amylovora CFBP1430 complete genome
+>gi|537432303:857102-858625 Clostridium stercorarium subsp. stercorarium DSM 8532, complete genome
+>gi|331693899:577607-579116 Pseudonocardia dioxanivorans CB1190, complete genome
+>gi|386062973:974994-976519 Pseudomonas aeruginosa NCGM2.S1 DNA, complete genome
+>gi|379744720:1637979-1639499 Mycobacterium intracellulare ATCC 13950, complete genome
+>gi|78185892:107700-109190 Chlorobium luteolum DSM 273, complete genome
+>gi|238915976:15559-17079 Eubacterium eligens ATCC 27750, complete genome
+>gi|448239774:293906-295437 Serratia marcescens WW4, complete genome
+>gi|134294128:346865-348387 Burkholderia vietnamiensis G4 chromosome 1, complete sequence
+>gi|88607955:36274-37760 Neorickettsia sennetsu strain Miyayama, complete genome
+>gi|643691108:3912286-3913808 Pandoraea pnomenusa strain RB38
+>gi|182433793:4592153-4593668 Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome
+>gi|333922237:10526-12043 Desulfotomaculum carboxydivorans CO-1-SRB, complete genome
+>gi|218230750:9319-10860 Bacillus cereus B4264, complete genome
+>gi|296127869:1209816-1211325 Cellulomonas flavigena DSM 20109, complete genome
+>gi|379752013:1603175-1604695 Mycobacterium intracellulare MOTT-02, complete genome
+>gi|333977506:9101-10834 Desulfotomaculum kuznetsovii DSM 6115, complete genome
+>gi|170731356:344946-346468 Burkholderia cenocepacia MC0-3 chromosome 1, complete sequence
+>gi|330822653:1500505-1502023 Alicycliphilus denitrificans K601, complete genome
+>gi|17227497:2375739-2377217 Nostoc sp. PCC 7120 DNA, complete genome
+>gi|387905813:43081-44603 Burkholderia sp. KJ006 chromosome 3, complete sequence
+>gi|398349897:6187023-6188497 Sinorhizobium fredii USDA 257, complete genome
+>gi|407641178:1448262-1449770 Nocardia brasiliensis ATCC 700358, complete genome
+>gi|428205073:5559714-5561195 Chroococcidiopsis thermalis PCC 7203, complete genome
+>gi|308171891:9771-11310 Bacillus amyloliquefaciens DSM7 complete genome
+>gi|357409266:4085103-4086618 Streptomyces pratensis ATCC 33331, complete genome
+>gi|225862057:9198-10739 Bacillus cereus 03BB102, complete genome
+>gi|386756580:9755-11294 Bacillus sp. JS, complete genome
+>gi|405751204:243281-244820 Listeria monocytogenes strain SLCC2378, serotype 4e
+>gi|227820587:3621005-3622479 Sinorhizobium fredii NGR234 chromosome, complete genome
+>gi|428315182:566531-568020 Oscillatoria nigro-viridis PCC 7112, complete genome
+>gi|386052273:241592-243131 Listeria monocytogenes Finland 1998, complete genome
+>gi|219870279:972927-974457 Haemophilus parasuis SH0165, complete genome
+>gi|426402010:842395-843889 Bdellovibrio bacteriovorus str. Tiberius, complete genome
+>gi|226222639:234081-235620 Listeria monocytogenes Clip80459 serotype 4b complete genome
+>gi|229915734:2031402-2032953 Exiguobacterium sp. AT1b, complete genome
+>gi|302872922:9728-11232 Clostridium cellulovorans 743B, complete genome
+>gi|116048575:733091-734616 Pseudomonas aeruginosa UCBPP-PA14, complete genome
+>gi|501677485:123166-124694 Pseudomonas protegens CHA0, complete genome
+>gi|334343657:2454167-2455644 Sphingobium chlorophenolicum L-1 chromosome 1, complete sequence
+>gi|194442203:291358-292889 Salmonella enterica subsp. enterica serovar Newport str. SL254 chromosome, complete genome
+>gi|300309346:519649-521172 Herbaspirillum seropedicae SmR1, complete genome
+>gi|126463752:575901-577357 Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence
+>gi|302336548:1642102-1643633 Spirochaeta smaragdinae DSM 11293, complete genome
+>gi|167626225:938371-939886 Francisella philomiragia subsp. philomiragia ATCC 25017, complete genome
+>gi|378824597:3885369-3886843 Sinorhizobium fredii HH103 main chromosome, complete sequence
+>gi|488607535:4355828-4357343 Streptomyces fulvissimus DSM 40593, complete genome
+>gi|311277332:448964-450494 Enterobacter lignolyticus SCF1, complete genome
+>gi|25026556:931666-933176 Corynebacterium efficiens YS-314 DNA, complete genome
+>gi|332668532:1832185-1833696 Cellulomonas fimi ATCC 484, complete genome
+>gi|523529121:56177-57703 Acinetobacter baumannii BJAB0715, complete genome
+>gi|386262266:159978-161483 Flavobacterium columnare ATCC 49512, complete genome
+>gi|428768415:2497440-2498922 Cyanobacterium aponinum PCC 10605, complete genome
+>gi|292654178:1598192-1599661 Haloferax volcanii DS2 chromosome, complete genome
+>gi|334139601:152809-154287 Novosphingobium sp. PP1Y main chromosome, complete replicon
+>gi|428220140:3279220-3280693 Synechococcus sp. PCC 7502, complete genome
+>gi|255534169:431635-433141 Flavobacteriaceae bacterium 3519-10, complete genome
+>gi|379706264:1270351-1271859 Nocardia cyriacigeorgica GUH-2, complete genome
+>gi|442803496:856990-858513 Clostridium stercorarium subsp. stercorarium DSM 8532, complete genome
+>gi|66043271:772100-773628 Pseudomonas syringae pv. syringae B728a chromosome, complete genome
+>gi|242277482:65070-66614 Desulfovibrio salexigens DSM 2638, complete genome
+>gi|56961782:11680-13220 Bacillus clausii KSM-K16 DNA, complete genome
+>gi|557619566:2631026-2632567 Bacillus toyonensis BCT-7112, complete genome
+>gi|383783295:1058584-1060135 Leptospirillum ferrooxidans C2-3 DNA, complete genome
+>gi|152973854:9422-10962 Bacillus cytotoxicus NVH 391-98, complete genome
+>gi|336115651:1855239-1856747 Microlunatus phosphovorus NM-1 DNA, complete genome
+>gi|241202755:4429026-4430496 Rhizobium leguminosarum bv. trifolii WSM1325, complete genome
+>gi|76808520:1544686-1546206 Burkholderia pseudomallei 1710b chromosome I, complete sequence
+>gi|376264031:9314-10855 Bacillus cereus F837/76, complete genome
+>gi|71905642:76849-78376 Dechloromonas aromatica RCB, complete genome
+>gi|385785459:1313722-1315256 Erwinia sp. Ejp617, complete genome
+>gi|347534971:1179122-1180623 Flavobacterium branchiophilum FL-15, complete genome
+>gi|54292964:408822-410355 Legionella pneumophila str. Lens, complete genome
+>gi|51594359:12254-13786 Yersinia pseudotuberculosis IP32953 genome, complete sequence
+>gi|227812678:9187-10728 Bacillus anthracis str. CDC 684, complete genome
+>gi|290954631:5487036-5488551 Streptomyces scabiei 87.22, complete genome
+>gi|120608714:1577960-1579478 Acidovorax citrulli AAC00-1, complete genome
+>gi|148651817:776640-778164 Psychrobacter sp. PRwf-1, complete genome
+>gi|385795588:663527-665072 Geobacter sulfurreducens KN400, complete genome
+>gi|284163295:513463-514934 Haloterrigena turkmenica DSM 5511 chromosome, complete genome
+>gi|198241740:290020-291551 Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853 chromosome, complete genome
+>gi|317046238:230336-231867 Pantoea sp. At-9b, complete genome
+>gi|62388892:76647-78160 Corynebacterium glutamicum ATCC 13032, IS fingerprint type 4-5, complete genome
+>gi|300021538:3624596-3626066 Hyphomicrobium denitrificans ATCC 51888, complete genome
+>gi|383313191:619031-620540 Corynebacterium pseudotuberculosis P54B96, complete genome
+>gi|158520017:680918-682470 Desulfococcus oleovorans Hxd3, complete genome
+>gi|428771848:1167847-1169324 Cyanobacterium stanieri PCC 7202, complete genome
+>gi|385791932:435203-436720 Francisella cf. novicida Fx1, complete genome
+>gi|387896523:10039-11578 Bacillus amyloliquefaciens Y2, complete genome
+>gi|488575046:3791990-3793460 Hyphomicrobium denitrificans 1NES1, complete genome
+>gi|383775170:167810-169314 Actinoplanes missouriensis 431 DNA, complete genome
+>gi|392419087:987017-988543 Pseudomonas stutzeri CCUG 29243, complete genome
+>gi|218885109:2773363-2774900 Desulfovibrio vulgaris str. 'Miyazaki F', complete genome
+>gi|170754211:9369-10870 Clostridium botulinum B1 str. Okra, complete genome
+>gi|386353647:3613621-3615136 Streptomyces cattleya DSM 46488, complete genome
+>gi|339905954:257138-258660 Burkholderia glumae BGR1 chromosome 1, complete sequence
+>gi|163119169:9907-11446 Bacillus licheniformis ATCC 14580, complete genome
+>gi|330806657:182478-184004 Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome
+>gi|568125122:842043-843563 Achromobacter xylosoxidans NBRC 15126 = ATCC 27061, complete genome
+>gi|120552944:798760-800290 Marinobacter aquaeolei VT8, complete genome
+>gi|285016821:434213-435747 Xanthomonas albilineans GPE PC73 chromosome, complete genome
+>gi|310657316:14444-15944 Clostridium sticklandii str. DSM 519 chromosome, complete genome
+>gi|568136993:164947-166473 Pseudomonas sp. TKP, complete genome
+>gi|57639935:2022864-2024349 Thermococcus kodakarensis KOD1 chromosome, complete genome
+>gi|357397620:3613813-3615328 Streptomyces cattleya str. NRRL 8057 main chromosome, complete genome
+>gi|116249766:63647-65117 Rhizobium leguminosarum bv. viciae chromosome complete genome, strain 3841
+>gi|16799079:260535-262074 Listeria innocua Clip11262 complete genome
+>gi|300853232:9422-10921 Clostridium ljungdahlii DSM 13528, complete genome
+>gi|197283915:452970-454502 Proteus mirabilis strain HI4320, complete genome
+>gi|29140543:287475-289006 Salmonella enterica subsp. enterica serovar Typhi str. Ty2 chromosome, complete genome
+>gi|385232493:2502504-2503956 Ketogulonigenium vulgarum WSH-001 chromosome, complete genome
+>gi|482892482:177426-178951 Azotobacter vinelandii CA, complete genome
+>gi|16120353:12270-13802 Yersinia pestis CO92 chromosome, complete genome
+>gi|257054089:564232-565745 Saccharomonospora viridis DSM 43017, complete genome
+>gi|377807392:1-1521 Burkholderia sp. YI23 chromosome 3, complete sequence
+>gi|75906225:1002922-1004400 Anabaena variabilis ATCC 29413, complete genome
+>gi|86604733:2310385-2311848 Synechococcus sp. JA-3-3Ab, complete genome
+>gi|386042347:231934-233473 Listeria monocytogenes 10403S, complete genome
+>gi|27375111:1528232-1529710 Bradyrhizobium japonicum USDA 110 chromosome, complete genome
+>gi|333924895:252730-254261 Serratia sp. AS12, complete genome
+>gi|296100371:265442-266974 Enterobacter cloacae subsp. cloacae ATCC 13047 chromosome, complete genome
+>gi|295698848:474562-476084 Burkholderia sp. CCGE1002 chromosome 2, complete sequence
+>gi|433611795:80519-81993 Sinorhizobium meliloti GR4, complete genome
+>gi|162951842:28058-29205 Debaryomyces hansenii mitochondrion, complete genome
+>gi|138893679:10616-12166 Geobacillus thermodenitrificans NG80-2, complete genome
+>gi|134290884:53233-54755 Burkholderia vietnamiensis G4 chromosome 3, complete sequence
+>gi|386009639:200270-201796 Pseudomonas putida BIRD-1, complete genome
+>gi|308185541:259507-261036 Pantoea vagans C9-1, complete genome
+>gi|134096620:1402753-1404265 Saccharopolyspora erythraea NRRL2338 complete genome
+>gi|563649971:10911-12459 Geobacillus sp. JF8, complete genome
+>gi|116686245:396144-397666 Burkholderia cenocepacia HI2424 chromosome 3, complete sequence
+>gi|15805042:84841-86332 Deinococcus radiodurans R1 chromosome 1, complete sequence
+>gi|384528107:3356288-3357762 Sinorhizobium meliloti BL225C, complete genome
+>gi|192358779:807048-808571 Cellvibrio japonicus Ueda107, complete genome
+>gi|219666071:171925-173480 Desulfitobacterium hafniense DCB-2, complete genome
+>gi|403516668:1337329-1338849 Burkholderia pseudomallei BPC006 chromosome I, complete sequence
+>gi|386617516:216838-218369 Escherichia coli NA114, complete genome
+>gi|427722021:1674525-1676003 Leptolyngbya sp. PCC 7376, complete genome
+>gi|253686409:224314-225845 Pectobacterium carotovorum subsp. carotovorum PC1, complete genome
+>gi|332139403:235001-236531 Pantoea ananatis LMG 20103, complete genome
+>gi|70728250:122816-124344 Pseudomonas protegens Pf-5, complete genome
+>gi|379699217:289175-290706 Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74, complete genome
+>gi|514407635:699406-700931 Pseudomonas aeruginosa RP73, complete genome
+>gi|378443454:289171-290702 Salmonella enterica subsp. enterica serovar Typhimurium str. D23580 complete genome
+>gi|325291453:57249-58723 Agrobacterium sp. H13-3 circular chromosome, complete sequence
+>gi|221368938:58539-59995 Rhodobacter sphaeroides KD131 chromosome 2, complete sequence
+>gi|255767013:9817-11356 Bacillus subtilis subsp. subtilis str. 168 chromosome, complete genome
+>gi|568175750:9768-11307 Bacillus amyloliquefaciens LFB112, complete genome
+>gi|384456718:9717-11212 Clostridium acetobutylicum EA 2018, complete genome
+>gi|384157612:9771-10668 Bacillus amyloliquefaciens TA208, complete genome
+>gi|312128809:3152801-3154291 Leadbetterella byssophila DSM 17132, complete genome
+>gi|470186955:81772-83246 Sinorhizobium meliloti 2011, complete genome
+>gi|73537298:180335-181858 Ralstonia eutropha JMP134 chromosome 2, complete sequence
+>gi|320100209:57622-59114 Desulfurococcus mucosus DSM 2162 chromosome, complete genome
+>gi|42779081:9313-10853 Bacillus cereus ATCC 10987, complete genome
+>gi|384044176:356446-357987 Bacillus megaterium WSH-002, complete genome
+>gi|300689714:440527-442054 Ralstonia solanacearum str. PSI07 chromosome, complete genome
+>gi|220905643:533035-534510 Cyanothece sp. PCC 7425, complete genome
+>gi|386048930:237389-238928 Listeria monocytogenes FSL R2-561, complete genome
+>gi|219853343:9354-10854 Clostridium kluyveri NBRC 12016 DNA, complete genome
+>gi|552535527:6-1460 Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence
+>gi|379009891:88305-89819 Acetobacterium woodii DSM 1030, complete genome
+>gi|447915004:1279290-1280816 Pseudomonas poae RE*1-1-14, complete genome
+>gi|384145136:1295149-1296655 Amycolatopsis mediterranei S699, complete genome
+>gi|300702374:419801-421326 Ralstonia solanacearum CFBP2957, complete genome
+>gi|568179884:125936-127462 Pseudomonas monteilii SB3078, complete genome
+>gi|379718015:10600-12126 Paenibacillus mucilaginosus 3016, complete genome
+>gi|339492077:719464-720990 Pseudomonas stutzeri ATCC 17588 = LMG 11199, complete genome
+>gi|257057919:3780828-3782308 Cyanothece sp. PCC 8802, complete genome
+>gi|209547612:4146704-4148174 Rhizobium leguminosarum bv. trifolii WSM2304, complete genome
+>gi|159035674:222629-224134 Salinispora arenicola CNS-205, complete genome
+>gi|474978534:6077264-6078779 Streptomyces hygroscopicus subsp. jinggangensis TL01, complete genome
+>gi|284034943:1347018-1348514 Spirosoma linguale DSM 74, complete genome
+>gi|291280824:227067-228598 Escherichia coli O55:H7 str. CB9615, complete genome
+>gi|188591847:177402-178925 Cupriavidus taiwanensis str. LMG19424 chromosome 2, complete genome
+>gi|379733551:163559-165067 Blastococcus saxobsidens DD2 complete genome
+>gi|387789281:7705-9214 Solitalea canadensis DSM 3403, complete genome
+>gi|407711772:1262275-1263797 Burkholderia phenoliruptrix BR3459a chromosome 1, complete sequence
+>gi|170738367:3881544-3883016 Methylobacterium sp. 4-46, complete genome
+>gi|447911521:425865-427414 Enterococcus faecium NRRL B-2354, complete genome
+>gi|407450786:892840-894346 Riemerella anatipestifer RA-CH-1, complete genome
+>gi|378982542:289185-290716 Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 DNA, complete genome
+>gi|222093774:9315-10856 Bacillus cereus Q1, complete genome
+>gi|375143366:1184431-1185950 Niastella koreensis GR20-10, complete genome
+>gi|525689963:264350-265880 Serratia liquefaciens ATCC 27592, complete genome
+>gi|189423082:768666-770213 Geobacter lovleyi SZ, complete genome
+>gi|316931396:1992083-1993561 Rhodopseudomonas palustris DX-1, complete genome
+>gi|344997652:3971019-3972534 Streptomyces sp. SirexAA-E, complete genome
+>gi|157163852:708613-710113 Campylobacter concisus 13826, complete genome
+>gi|525721265:1410324-1411863 Listeria monocytogenes J1816, complete genome
+>gi|386712343:41435-42991 Halobacillus halophilus DSM 2266 complete genome
+>gi|328541624:491869-493341 Polymorphum gilvum SL003B-26A1, complete genome
+>gi|320352146:2987037-2988584 Desulfobulbus propionicus DSM 2032, complete genome
+>gi|254160123:226614-228145 Escherichia coli B str. REL606, complete genome
+>gi|372486701:1393541-1395070 Dechlorosoma suillum PS, complete genome
+>gi|84488831:408666-410139 Methanosphaera stadtmanae DSM 3091 chromosome, complete genome
+>gi|357386972:4796517-4798030 Kitasatospora setae KM-6054 DNA, complete genome
+>gi|222152201:18010-19548 Streptococcus uberis 0140J complete genome
+>gi|315497051:553107-554557 Asticcacaulis excentricus CB 48 chromosome 1, complete sequence
+>gi|404279552:237055-238594 Listeria monocytogenes strain SLCC2755, serotype 1/2b
+>gi|470157438:101075-102588 Corynebacterium callunae DSM 20147, complete genome
+>gi|146309667:250887-252416 Enterobacter sp. 638, complete genome
+>gi|169825618:10099-11637 Lysinibacillus sphaericus C3-41, complete genome
+>gi|110636427:120033-121543 Cytophaga hutchinsonii ATCC 33406, complete genome
+>gi|530612796:9802-11341 Bacillus amyloliquefaciens subsp. plantarum UCMB5113, complete genome
+>gi|118462219:1487538-1489060 Mycobacterium avium 104, complete genome
+>gi|46562128:105899-107437 Desulfovibrio vulgaris str. Hildenborough chromosome, complete genome
+>gi|384173661:9750-11289 Bacillus subtilis subsp. subtilis RO-NN-1, complete genome
+>gi|91777110:539509-541029 Burkholderia xenovorans LB400 chromosome 2, complete sequence
+>gi|187930913:576208-577725 Francisella tularensis subsp. mediasiatica FSC147, complete genome
+>gi|261403876:11928-13472 Paenibacillus sp. Y412MC10, complete genome
+>gi|333917679:619407-620919 Amycolicicoccus subflavus DQS3-9A1, complete genome
+>gi|470173039:76646-78159 Corynebacterium glutamicum K051 complete genome, strain ATCC 13032, sub-strain K051
+>gi|511628970:10557-12083 Paenibacillus mucilaginosus K02, complete genome
+>gi|302877245:214047-215572 Gallionella capsiferriformans ES-2, complete genome
+>gi|397692770:1863506-1863951 Pseudomonas putida DOT-T1E chromosome, complete genome
+>gi|549451945:258122-259643 Ralstonia pickettii DTP0602 chromosome 3, complete sequence
+>gi|402770565:29896-31371 Methylocystis sp. SC2 complete genome
+>gi|378715556:107425-108937 Gordonia polyisoprenivorans VH2, complete genome
+>gi|399533820:1303690-1305196 Amycolatopsis mediterranei S699, complete genome
+>gi|384177910:9314-10855 Bacillus thuringiensis serovar finitimus YBT-020, complete genome
+>gi|163838769:364819-366345 Renibacterium salmoninarum ATCC 33209, complete genome
+>gi|16445223:227108-228639 Escherichia coli O157:H7 str. EDL933 chromosome, complete genome
+>gi|545636471:476792-478333 Staphylococcus aureus subsp. aureus SA40, complete genome
+>gi|220920054:2190103-2191576 Methylobacterium nodulans ORS 2060, complete genome
+>gi|405748335:240783-242322 Listeria monocytogenes strain ATCC 19117, serotype 4d
+>gi|62178570:285176-286707 Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome
+>gi|229818502:1605357-1606875 Beutenbergia cavernae DSM 12333, complete genome
+>gi|378947941:165902-167428 Pseudomonas fluorescens F113, complete genome
+>gi|452196381:9197-10738 Bacillus thuringiensis serovar thuringiensis str. IS5056, complete genome
+>gi|565990029:13460-15016 Paenibacillus polymyxa CR1, complete genome
+>gi|145592566:202583-204088 Salinispora tropica CNB-440, complete genome
+>gi|332980605:333210-334738 Mahella australiensis 50-1 BON, complete genome
+>gi|182677002:680552-682028 Beijerinckia indica subsp. indica ATCC 9039, complete genome
+>gi|197120421:1401222-1402768 Anaeromyxobacter sp. K, complete genome
+>gi|21226102:2400692-2402163 Methanosarcina mazei Go1 chromosome, complete genome
+>gi|219850687:754052-755515 Methanosphaerula palustris E1-9c chromosome, complete genome
+>gi|288956841:520807-522282 Azospirillum sp. B510 DNA, complete genome
+>gi|255529916:1368498-1370009 Pedobacter heparinus DSM 2366, complete genome
+>gi|30248031:69144-70671 Nitrosomonas europaea ATCC 19718, complete genome
+>gi|73661309:743721-745263 Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305, complete genome
+>gi|126442307:558383-559903 Burkholderia pseudomallei 668 chromosome II, complete sequence
+>gi|32141095:4530673-4532189 Streptomyces coelicolor A3(2) chromosome, complete genome
+>gi|224988383:1471264-1472785 Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome
+>gi|386331671:472839-474364 Ralstonia solanacearum Po82, complete genome
+>gi|126438353:1295561-1297081 Burkholderia pseudomallei 668 chromosome I, complete sequence
+>gi|253754647:16973-18511 Streptococcus suis BM407 chromosome, complete genome
+>gi|525968348:1546838-1548363 Ralstonia solanacearum FQY_4, complete genome
+>gi|434373506:80729-82270 Bacillus thuringiensis HD-789, complete genome
+>gi|157144296:93800-95331 Citrobacter koseri ATCC BAA-895 chromosome, complete genome
+>gi|386707734:224248-225779 Escherichia coli W, complete genome
+>gi|407719209:3364519-3365993 Sinorhizobium meliloti Rm41 complete genome
+>gi|146276058:2863312-2864768 Rhodobacter sphaeroides ATCC 17025, complete genome
+>gi|406702775:234098-235637 Listeria monocytogenes strain L312, serotype 4b
+>gi|403521294:484007-485527 Burkholderia pseudomallei BPC006 chromosome II, complete sequence
+>gi|471258602:460799-462273 Micavibrio aeruginosavorus EPB, complete genome
+>gi|518646702:249271-250803 Serratia plymuthica 4Rx13, complete genome
+>gi|148821191:1475621-1477142 Mycobacterium tuberculosis F11, complete genome
+>gi|749322072:833429-834911 Granulibacter bethesdensis CGDNIH3, complete genome
+>gi|158311867:1274935-1276432 Frankia sp. EAN1pec, complete genome
+>gi|119714272:2113495-2115011 Nocardioides sp. JS614, complete genome
+>gi|124265193:352306-353826 Methylibium petroleiphilum PM1, complete genome
+>gi|374982757:5573528-5575045 Streptomyces bingchenggensis BCW-1, complete genome
+>gi|194447306:296915-298446 Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 chromosome, complete genome
+>gi|302341444:333735-335281 Desulfarculus baarsii DSM 2075, complete genome
+>gi|83718394:1237593-1239113 Burkholderia thailandensis E264 chromosome I, complete sequence
+>gi|365968300:237101-238630 Enterobacter cloacae EcWSU1, complete genome
+>gi|347750441:1640894-1642437 Bacillus coagulans 36D1, complete genome
+>gi|317054731:417346-418847 Ruminococcus albus 7, complete genome
+>gi|375256816:1425166-1426695 Klebsiella oxytoca KCTC 1686, complete genome
+>gi|310814533:13377-14829 Ketogulonicigenium vulgare Y25, complete genome
+>gi|32447382:213482-214992 Tropheryma whipplei str. Twist, complete genome
+>gi|57596592:22824-24363 Bacillus halodurans C-125 DNA, complete genome
+>gi|345007964:373992-375508 Streptomyces violaceusniger Tu 4113, complete genome
+>gi|148262085:1302606-1304149 Geobacter uraniireducens Rf4, complete genome
+>gi|384534464:3588190-3589664 Sinorhizobium meliloti SM11, complete genome
+>gi|426406915:111176-112701 Pseudomonas sp. UW4, complete genome
+>gi|387900762:277876-279398 Burkholderia sp. KJ006 chromosome 1, complete sequence
+>gi|383494824:289173-290704 Salmonella enterica subsp. enterica serovar Typhimurium str. 798, complete genome
+>gi|410477577:1294177-1295726 Leptospirillum ferriphilum ML-04, complete genome
+>gi|308066838:12388-13933 Paenibacillus polymyxa E681, complete genome
+>gi|302864508:2546561-2548065 Micromonospora aurantiaca ATCC 27029, complete genome
+>gi|170018061:466173-467704 Escherichia coli ATCC 8739, complete genome
+>gi|405756987:237439-238978 Listeria monocytogenes strain SLCC2479, serotype 3c
+>gi|374290655:315018-316493 Azospirillum lipoferum 4B main chromosome, complete genome
+>gi|307352168:740158-741622 Methanoplanus petrolearius DSM 11571 chromosome, complete genome
+>gi|472328503:9816-11355 Bacillus subtilis subsp. subtilis str. BAB-1, complete genome
+>gi|218901206:9314-10855 Bacillus cereus AH820, complete genome
+>gi|116326852:1698998-1700498 Leptospira borgpetersenii serovar Hardjo-bovis L550 chromosome 1, complete sequence
+>gi|148545259:185129-186655 Pseudomonas putida F1, complete genome
+>gi|392981410:699186-700711 Pseudomonas aeruginosa DK2, complete genome
+>gi|78355047:69857-71388 Desulfovibrio alaskensis G20, complete genome
+>gi|189348893:411338-412860 Burkholderia multivorans ATCC 17616 DNA, complete genome, chromosome 1
+>gi|387825439:226615-228146 Escherichia coli BL21(DE3), complete genome
+>gi|255961475:2411130-2412638 Kineococcus radiotolerans SRS30216, complete genome
+>gi|78064658:293345-294867 Burkholderia sp. 383 chromosome 1, complete sequence
+>gi|58616727:303755-305250 Ehrlichia ruminantium str. Gardel, complete genome
+>gi|253698656:1011188-1012732 Geobacter sp. M21, complete genome
+>gi|322417545:859351-860895 Geobacter sp. M18, complete genome
+>gi|298489614:830917-832396 'Nostoc azollae' 0708, complete genome
+>gi|430741030:3325971-3327474 Singulisphaera acidiphila DSM 18658, complete genome
+>gi|93004831:652008-653536 Psychrobacter cryohalolentis K5, complete genome
+>gi|347537839:457526-459051 Pseudogulbenkiania sp. NH8B DNA, complete genome
+>gi|190572091:416440-417974 Stenotrophomonas maltophilia K279a complete genome, strain K279a
+>gi|472323176:593164-594690 Pseudomonas denitrificans ATCC 13867, complete genome
+>gi|16802048:237474-239013 Listeria monocytogenes EGD-e chromosome, complete genome
+>gi|429217735:2727857-2729356 Deinococcus peraridilitoris DSM 19664, complete genome
+>gi|190889639:62762-64232 Rhizobium etli CIAT 652, complete genome
+>gi|146297766:2304228-2305731 Flavobacterium johnsoniae UW101, complete genome
+>gi|333911667:662883-664405 Delftia sp. Cs1-4, complete genome
+>gi|237793320:9400-10901 Clostridium botulinum Ba4 str. 657, complete genome
+>gi|345297184:257228-258757 Enterobacter asburiae LF7a, complete genome
+>gi|374286830:233656-235202 Bacteriovorax marinus SJ, complete genome
+>gi|334338613:10643-12163 Desulfotomaculum ruminis DSM 2154, complete genome
+>gi|340620779:538199-539702 Capnocytophaga canimorsus Cc5, complete genome
+>gi|313202490:191922-193439 Paludibacter propionicigenes WB4, complete genome
+>gi|73667559:2196021-2197495 Methanosarcina barkeri str. Fusaro, complete genome
+>gi|431925209:1128073-1129598 Pseudomonas stutzeri RCH2, complete genome
+>gi|78059643:139469-140991 Burkholderia sp. 383 chromosome 3, complete sequence
+>gi|116693960:174906-176427 Ralstonia eutropha H16 chromosome 2
+>gi|115522030:861572-863050 Rhodopseudomonas palustris BisA53, complete genome
+>gi|325102757:267921-269439 Pedobacter saltans DSM 12145, complete genome
+>gi|378775961:364019-365552 Legionella pneumophila subsp. pneumophila ATCC 43290, complete genome
+>gi|557830113:1172012-1173549 Thermotoga hypogea NBRC 106472 DNA, complete genome
+>gi|92112136:454918-456445 Chromohalobacter salexigens DSM 3043, complete genome
+>gi|159185562:1041818-1043292 Agrobacterium fabrum str. C58 chromosome linear, complete sequence
+>gi|20088899:1073041-1074515 Methanosarcina acetivorans C2A chromosome, complete genome
+>gi|557826865:279-1830 Exiguobacterium sp. MH3, complete genome
+>gi|456062337:32934-34456 Beta proteobacterium CB, complete genome
+>gi|433601838:1012087-1013592 Saccharothrix espanaensis DSM 44229 complete genome
+>gi|564949884:718065-719590 Pseudomonas aeruginosa MTB-1, complete genome
+>gi|257067223:513918-515427 Brachybacterium faecium DSM 4810 chromosome, complete genome
+>gi|294496875:9180-10721 Bacillus megaterium QM B1551, complete genome
+>gi|590001402:525209-526731 Comamonas testosteroni CNB-2, complete genome
+>gi|53721039:485356-486876 Burkholderia pseudomallei K96243 chromosome 2, complete sequence
+>gi|367036261:601304-603099 Myceliophthora thermophila ATCC 42464 chromosome 7, complete sequence
+>gi|121607004:1980679-1982202 Verminephrobacter eiseniae EF01-2, complete genome
+>gi|220910783:942449-943960 Arthrobacter chlorophenolicus A6, complete genome
+>gi|386006713:256768-258307 Listeria monocytogenes L99 serovar 4a, complete genome
+>gi|339321330:156344-157865 Cupriavidus necator N-1 chromosome 2, complete sequence
+>gi|448236310:10554-12101 Geobacillus sp. GHH01, complete genome
+>gi|296137750:1294120-1295628 Tsukamurella paurometabola DSM 20162, complete genome
+>gi|323524377:1255247-1256769 Burkholderia sp. CCGE1001 chromosome 1, complete sequence
+>gi|226359415:4102646-4104154 Rhodococcus opacus B4 DNA, complete genome
+>gi|222147015:61736-63206 Agrobacterium vitis S4 chromosome 1, complete sequence
+>gi|459286451:3187413-3188891 Bradyrhizobium oligotrophicum S58 DNA, complete genome
+>gi|378976159:16187-17714 Klebsiella pneumoniae subsp. pneumoniae HS11286 chromosome, complete genome
+>gi|167031021:183625-185151 Pseudomonas putida GB-1, complete genome
+>gi|86355669:62595-64065 Rhizobium etli CFN 42, complete genome
+>gi|386733873:9313-10854 Bacillus anthracis str. H9401, complete genome
+>gi|386607309:224248-225779 Escherichia coli W, complete genome
+>gi|404282430:237427-238966 Listeria monocytogenes strain SLCC2372, serotype 1/2c
+>gi|186680550:2021494-2022972 Nostoc punctiforme PCC 73102, complete genome
+>gi|386836097:6383572-6385087 Streptomyces hygroscopicus subsp. jinggangensis 5008, complete genome
+>gi|42521650:819581-821084 Bdellovibrio bacteriovorus complete genome, strain HD100
+>gi|430748349:337184-338778 Thermobacillus composti KWC4, complete genome
+>gi|386056071:699222-700747 Pseudomonas aeruginosa M18, complete genome
+>gi|307128764:12981-14512 Dickeya dadantii 3937, complete genome
+>gi|383452024:128435-129960 Corallococcus coralloides DSM 2259, complete genome
+>gi|119773142:56155-57689 Shewanella amazonensis SB2B, complete genome
+>gi|110801439:9997-11499 Clostridium perfringens SM101, complete genome
+>gi|488601775:371553-373073 Burkholderia thailandensis MSMB121 chromosome 1, complete sequence
+>gi|17544719:1532703-1534228 Ralstonia solanacearum GMI1000 chromosome complete sequence
+>gi|512550081:155757-157284 Chthonomonas calidirosea T49, complete genome
+>gi|218895141:9162-10703 Bacillus cereus G9842, complete genome
+>gi|237653092:454427-455955 Thauera sp. MZ1T, complete genome
+>gi|218665024:333216-334741 Acidithiobacillus ferrooxidans ATCC 23270, complete genome
+>gi|159896533:1226126-1227597 Herpetosiphon aurantiacus DSM 785, complete genome
+>gi|183219427:1121103-1122592 Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)' chromosome I, complete sequence
+>gi|30260195:9313-10854 Bacillus anthracis str. Ames chromosome, complete genome
+>gi|384503605:619082-620591 Corynebacterium pseudotuberculosis 1002, complete genome
+>gi|17988344:189768-191242 Brucella melitensis 16M chromosome II, complete sequence
+>gi|51891138:21151-22705 Symbiobacterium thermophilum IAM 14863 DNA, complete genome
+>gi|170022262:343984-345516 Yersinia pseudotuberculosis YPIII, complete genome
+>gi|148251626:1273691-1275169 Bradyrhizobium sp. BTAi1, complete genome
+>gi|518651360:726049-727515 Ferroplasma acidarmanus fer1, complete genome
+>gi|568306739:705848-707373 Pseudomonas aeruginosa SCV20265, complete genome
+>gi|161523180:261317-262839 Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence
+>gi|386018640:779855-781381 Pseudomonas stutzeri DSM 4166, complete genome
+>gi|114326664:830790-832272 Granulibacter bethesdensis CGDNIH1, complete genome
+>gi|445058371:764149-765691 Staphylococcus warneri SG1, complete genome
+>gi|217957581:9315-10856 Bacillus cereus AH187, complete genome
+>gi|52140164:9315-10856 Bacillus cereus E33L, complete genome
+>gi|336065242:78707-80235 Erysipelothrix rhusiopathiae str. Fujisawa DNA, complete genome
+>gi|163854304:754872-756392 Bordetella petrii strain DSM 12804, complete genome
+>gi|162145846:81171-82653 Gluconacetobacter diazotrophicus PAl 5 complete genome
+>gi|294494690:561038-562509 Methanohalophilus mahii DSM 5219 chromosome, complete genome
+>gi|92115633:723634-725112 Nitrobacter hamburgensis X14, complete genome
+>gi|523408232:376738-378263 Ralstonia solanacearum CMR15 chromosome, complete genome
+>gi|68535062:108687-110204 Corynebacterium jeikeium K411 complete genome
+>gi|126451443:1305993-1307513 Burkholderia pseudomallei 1106a chromosome I, complete sequence
+>gi|218888746:699357-700882 Pseudomonas aeruginosa LESB58 complete genome sequence
+>gi|352681234:1699104-1700605 Thermoproteus tenax Kra 1, complete genome
+>gi|336112679:11064-12607 Bacillus coagulans 2-6, complete genome
+>gi|197116402:950506-952050 Geobacter bemidjiensis Bem, complete genome
+>gi|350264100:9812-11351 Bacillus subtilis subsp. spizizenii TU-B-10, complete genome
+>gi|378987404:289172-290703 Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1, complete genome
+>gi|119896292:204810-206335 Azoarcus sp. BH72, complete genome
+>gi|261819370:215954-217486 Pectobacterium wasabiae WPP163, complete genome
+>gi|170719187:839692-841218 Pseudomonas putida W619, complete genome
+>gi|387151873:147852-149390 Desulfovibrio vulgaris RCH1, complete genome
+>gi|18308982:10172-11676 Clostridium perfringens str. 13 DNA, complete genome
+>gi|222823046:436363-437865 Campylobacter lari RM2100, complete genome
+>gi|259906682:33274-34803 Erwinia pyrifoliae strain Ep1/96 complete chromosome
+>gi|152979768:259689-261211 Janthinobacterium sp. Marseille, complete genome
+>gi|295702242:9181-10722 Bacillus megaterium DSM319, complete genome
+>gi|387816237:9244-10745 Clostridium botulinum H04402 065, complete genome sequence
+>gi|643987992:722031-723556 Pseudomonas aeruginosa c7447m
+>gi|160878162:15752-17271 Clostridium phytofermentans ISDg, complete genome
+>gi|33598993:1972928-1974448 Bordetella bronchiseptica strain RB50, complete genome
+>gi|333996462:179356-180886 Treponema primitia ZAS-2, complete genome
+>gi|188590795:1622847-1624368 Cupriavidus taiwanensis str. LMG19424 chromosome 1, complete genome
+>gi|339484941:131522-133048 Pseudomonas putida S16, complete genome
+>gi|113866031:1806468-1807989 Ralstonia eutropha H16 chromosome 1
+>gi|37524032:58443-59977 Photorhabdus luminescens subsp. laumondii TTO1 complete genome
+>gi|315441696:1784691-1786200 Mycobacterium gilvum Spyr1, complete genome
+>gi|521187702:66319-67835 Corynebacterium terpenotabidum Y-11, complete genome
+>gi|116668568:792342-793855 Arthrobacter sp. FB24, complete genome
+>gi|488570484:10449-11988 Bacillus sp. 1NLA3E, complete genome
+>gi|29345410:4983434-4984953 Bacteroides thetaiotaomicron VPI-5482 chromosome, complete genome
+>gi|49476684:9315-10856 Bacillus thuringiensis serovar konkukian str. 97-27 chromosome, complete genome
+>gi|337735209:9717-11212 Clostridium acetobutylicum DSM 1731, complete genome
+>gi|325284916:2707215-2708724 Cellulophaga lytica DSM 7489, complete genome
+>gi|307149945:3853994-3855474 Cyanothece sp. PCC 7822, complete genome
+>gi|317120849:73907-75456 Thermaerobacter marianensis DSM 12885, complete genome
+>gi|393198727:290184-291730 Solibacillus silvestris StLB046 DNA, complete genome
+>gi|375137218:3835344-3836853 Mycobacterium rhodesiae NBB3, complete genome
+>gi|644643714:698969-700494 Pseudomonas aeruginosa LESB65
+>gi|153007346:1084026-1085498 Ochrobactrum anthropi ATCC 49188 chromosome 1, complete sequence
+>gi|402564811:264552-266074 Burkholderia cepacia GG4 chromosome 1, complete sequence
+>gi|384137007:1370062-1371594 Yersinia pestis A1122, complete genome
+>gi|71064581:660553-662081 Psychrobacter arcticus 273-4, complete genome
+>gi|171056692:324490-326006 Leptothrix cholodnii SP-6, complete genome
+>gi|347753732:103121-104610 Candidatus Chloracidobacterium thermophilum B chromosome 1, complete sequence
+>gi|384260349:22977-23257 Rhodospirillum photometricum DSM 122 draft genome sequence
+>gi|56475432:1845874-1847401 Azoarcus aromaticum EbN1 complete genome
+>gi|23097455:91498-93051 Oceanobacillus iheyensis HTE831 DNA, complete genome
+>gi|253771435:483877-485408 Escherichia coli 'BL21-Gold(DE3)pLysS AG', complete genome
+>gi|295675101:1097148-1098671 Burkholderia sp. CCGE1002 chromosome 1, complete sequence
+>gi|50118965:16900-18433 Erwinia carotovora subsp. atroseptica SCRI1043, complete genome
+>gi|146280397:866713-868239 Pseudomonas stutzeri A1501, complete genome
+>gi|451344759:980126-981665 Bacillus amyloliquefaciens IT-45, complete genome
+>gi|296271545:237933-239439 Arcobacter nitrofigilis DSM 7299, complete genome
+>gi|296105497:408948-410481 Legionella pneumophila 2300/99 Alcoy, complete genome
+>gi|325282255:25687-27178 Deinococcus proteolyticus MRP, complete genome
+>gi|407703236:4606090-4607631 Bacillus thuringiensis MC28, complete genome
+>gi|58579623:305734-307270 Xanthomonas oryzae pv. oryzae KACC 10331, complete genome
+>gi|325961450:811490-813002 Arthrobacter phenanthrenivorans Sphe3, complete genome
+>gi|392413905:2722534-2724043 Mycobacterium chubuense NBB4, complete genome
+>gi|386077236:97150-98679 Pantoea ananatis PA13, complete genome
+>gi|319790694:172899-174423 Variovorax paradoxus EPS, complete genome
+>gi|332715374:1427249-1428723 Agrobacterium sp. H13-3 linear chromosome, complete sequence
+>gi|294146429:119255-120731 Sphingobium japonicum UT26S DNA, chromosome 2, complete genome
+>gi|91781384:1425551-1427071 Burkholderia xenovorans LB400 chromosome 1, complete sequence
+>gi|310639471:12269-13812 Paenibacillus polymyxa SC2, complete genome
+>gi|395443650:2850126-2851652 Pseudomonas putida ND6, complete genome
+>gi|157368249:298567-300099 Serratia proteamaculans 568, complete genome
+>gi|170079663:197880-199411 Escherichia coli str. K-12 substr. DH10B chromosome, complete genome
+>gi|429503531:9765-11287 Bacillus amyloliquefaciens subsp. plantarum AS43.3, complete genome
+>gi|375360690:9769-11308 Bacillus amyloliquefaciens subsp. plantarum CAU B946 complete genome
+>gi|294675557:160330-161786 Rhodobacter capsulatus SB 1003, complete genome
+>gi|121592436:1248576-1250094 Acidovorax sp. JS42, complete genome
+>gi|148552929:3844821-3846297 Sphingomonas wittichii RW1, complete genome
+>gi|54295983:432907-434440 Legionella pneumophila str. Paris, complete genome
+>gi|397662556:383236-384769 Legionella pneumophila subsp. pneumophila str. Lorraine chromosome, complete genome
+>gi|170735571:2010515-2012037 Burkholderia cenocepacia MC0-3 chromosome 2, complete sequence
+>gi|375282101:9190-10731 Bacillus cereus NC7401 genomic DNA, complete genome
+>gi|163938013:9025-10566 Bacillus weihenstephanensis KBAB4, complete genome
+>gi|54021964:1179560-1181068 Nocardia farcinica IFM 10152 DNA, complete genome
+>gi|292897734:41030-42559 Erwinia amylovora ATCC 49946 chromosomal sequence
+>gi|117918459:50957-52489 Shewanella sp. ANA-3 chromosome 1, complete sequence
+>gi|15963753:81772-83246 Sinorhizobium meliloti 1021 chromosome, complete genome
+>gi|512576139:89203-90729 Pseudomonas putida H8234, complete genome
+>gi|289163353:344741-346274 Legionella longbeachae NSW150, complete genome
+>gi|319779749:1686678-1688152 Mesorhizobium ciceri biovar biserrulae WSM1271 chromosome, complete genome
+>gi|451942744:853481-854992 Corynebacterium halotolerans YIM 70093 = DSM 44683, complete genome
+>gi|528816716:496746-498278 Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1, complete genome
+>gi|488652559:287475-289006 Salmonella enterica subsp. enterica serovar Typhi str. Ty21a, complete genome
+>gi|333981747:392603-394125 Methylomonas methanica MC09, complete genome
+>gi|71733195:804006-805534 Pseudomonas syringae pv. phaseolicola 1448A, complete genome
+>gi|45655914:1230544-1232041 Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130, chromosome I, complete sequence
+>gi|347756788:474083-475557 Micavibrio aeruginosavorus ARL-13, complete genome
+>gi|157690798:9574-11112 Bacillus pumilus SAFR-032, complete genome
+>gi|412337338:4514916-4516436 Bordetella bronchiseptica 253, complete genome
+>gi|222053117:2111705-2113250 Geobacter daltonii FRC-32, complete genome
+>gi|226942170:177426-178951 Azotobacter vinelandii DJ, complete genome
+>gi|404212629:2127782-2129294 Gordonia sp. KTR9, complete genome
+>gi|301051741:9007-10548 Bacillus cereus biovar anthracis str. CI, complete genome
+>gi|126455463:485136-486656 Burkholderia pseudomallei 1106a chromosome II, complete sequence
+>gi|119385557:141986-143438 Paracoccus denitrificans PD1222 chromosome 2, complete sequence
+>gi|333929848:252736-254267 Serratia plymuthica AS9, complete genome
+>gi|656325989:479060-480567 Rhodococcus erythropolis R138 chromosome, whole genome shotgun sequence
+>gi|455737153:790296-791828 Morganella morganii subsp. morganii KT, complete genome
+>gi|161522356:20984-22506 Burkholderia multivorans ATCC 17616 chromosome 3, complete sequence
+>gi|17986284:198653-200127 Brucella melitensis bv. 1 str. 16M chromosome I, complete sequence
+>gi|386025288:256565-258104 Listeria monocytogenes M7, complete genome
+>gi|108802856:1337344-1338891 Rubrobacter xylanophilus DSM 9941, complete genome
+>gi|374319880:1610832-1612379 Paenibacillus terrae HPL-003, complete genome
+>gi|488773889:9737-11257 Desulfotomaculum gibsoniae DSM 7213, complete genome
+>gi|337277607:566086-567606 Ramlibacter tataouinensis TTB310, complete genome
+>gi|70725001:879840-881380 Staphylococcus haemolyticus JCSC1435 DNA, complete genome
+>gi|115350056:290624-292146 Burkholderia ambifaria AMMD chromosome 1, complete sequence
+>gi|145294042:105313-106827 Corynebacterium glutamicum R DNA, complete genome
+>gi|311103224:817956-819476 Achromobacter xylosoxidans A8, complete genome
+>gi|229599883:9213-10754 Bacillus anthracis str. A0248, complete genome
+>gi|378764971:96783-98313 Pantoea ananatis LMG 5342 main chromosome complete genome
+>gi|197247352:298920-300449 Salmonella enterica subsp. enterica serovar Agona str. SL483 chromosome, complete genome
+>gi|471260972:751708-753211 Bdellovibrio exovorus JSS, complete genome
+>gi|289433373:222530-224069 Listeria seeligeri serovar 1/2b str. SLCC3954 complete genome
+>gi|428200461:440025-441504 Pleurocapsa sp. PCC 7327, complete genome
+>gi|126460778:87770-89226 Rhodobacter sphaeroides ATCC 17029 chromosome 1, complete sequence
+>gi|118578449:1352682-1354229 Pelobacter propionicus DSM 2379, complete genome
+>gi|532456681:1303651-1305157 Amycolatopsis mediterranei RB, complete genome
+>gi|433771415:1738464-1739938 Mesorhizobium australicum WSM2073, complete genome
+>gi|402570638:91585-93141 Desulfosporosinus meridiei DSM 13257, complete genome
+>gi|339324158:1740994-1742515 Cupriavidus necator N-1 chromosome 1, complete sequence
+>gi|338736863:4740657-4742128 Hyphomicrobium sp. MC1 chromosome, complete genome
+>gi|387823583:415211-416728 Francisella cf. novicida 3523, complete genome
+>gi|336475959:39608-41082 Methanosalsum zhilinae DSM 4017 chromosome, complete genome
+>gi|384213726:1584406-1585884 Bradyrhizobium japonicum USDA 6 DNA, complete genome
+>gi|386855208:801438-802933 Deinococcus gobiensis I-0, complete genome
+>gi|145220606:2414608-2416117 Mycobacterium gilvum PYR-GCK, complete genome
+>gi|26986745:171377-172903 Pseudomonas putida KT2440 chromosome, complete genome
+>gi|409187965:9015-10556 Bacillus thuringiensis Bt407, complete genome
+>gi|85700163:242737-244276 Listeria monocytogenes serotype 4b str. F2365 chromosome, complete genome
+>gi|188532165:31990-33519 Erwinia tasmaniensis strain ET1/99 complete chromosome
+>gi|479053932:1476450-1477971 Mycobacterium tuberculosis 7199-99 complete genome
+>gi|494682416:183863-185368 Actinoplanes sp. N902-109, complete genome
+>gi|556562917:195252-196760 Actinoplanes friuliensis DSM 7358, complete genome
+>gi|186893344:145399-146931 Yersinia pseudotuberculosis PB1/+, complete genome
+>gi|478476202:694264-695790 Pseudomonas aeruginosa B136-33, complete genome
+>gi|297558985:67125-68647 Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111 chromosome 1, complete sequence
+>gi|511060863:9446-10986 Bacillus licheniformis 9945A, complete genome
+>gi|330814956:317277-318799 Burkholderia gladioli BSR3 chromosome 1, complete sequence
+>gi|220927459:453789-455431 Clostridium cellulolyticum H10, complete genome
+>gi|674708758:9753-11292 Bacillus subtilis subsp. natto BEST195 DNA, complete genome
+>gi|300714588:26123-27653 Erwinia billingiae strain Eb661 complete chromosome
+>gi|407708765:1729420-1730942 Burkholderia phenoliruptrix BR3459a chromosome 2, complete sequence
+>gi|379759437:1392797-1394317 Mycobacterium intracellulare MOTT-64, complete genome
+>gi|226354810:16558-18053 Deinococcus deserti VCD115, complete genome
+>gi|83591340:192526-193999 Rhodospirillum rubrum ATCC 11170 chromosome, complete genome
+>gi|376289208:715027-716535 Corynebacterium diphtheriae C7 (beta), complete genome
+>gi|532362211:542383-543890 Rhodococcus erythropolis CCM2595, complete genome
+>gi|312794749:271763-273284 Burkholderia rhizoxinica HKI 454, complete genome
+>gi|449086670:9266-10807 Bacillus thuringiensis serovar kurstaki str. HD73, complete genome
+>gi|333898208:239520-241045 Pseudomonas fulva 12-X, complete genome
+>gi|49183039:9314-10855 Bacillus anthracis str. Sterne chromosome, complete genome
+>gi|153952670:9354-10854 Clostridium kluyveri DSM 555, complete genome
+>gi|384166624:9771-10660 Bacillus amyloliquefaciens XH7, complete genome
+>gi|377812245:3-1524 Burkholderia sp. YI23 chromosome 2, complete sequence
+>gi|523525298:56175-57700 Acinetobacter baumannii BJAB0868, complete genome
+>gi|387869382:33274-34803 Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163
+>gi|470168442:77123-78648 Azoarcus sp. KH32C DNA, complete genome
+>gi|337264537:1728173-1729647 Mesorhizobium opportunistum WSM2075, complete genome
+>gi|375133618:3321372-3322899 Acinetobacter calcoaceticus PHEA-2 chromosome, complete genome
+>gi|397685123:679696-681221 Pseudomonas stutzeri DSM 10701, complete genome
+>gi|187918714:904393-905915 Burkholderia phytofirmans PsJN chromosome 2, complete sequence
+>gi|170746450:1589193-1590665 Methylobacterium radiotolerans JCM 2831, complete genome
+>gi|226947222:9452-10953 Clostridium botulinum A2 str. Kyoto, complete genome
+>gi|187922035:1541576-1543096 Burkholderia phytofirmans PsJN chromosome 1, complete sequence
+>gi|218244892:3806016-3807496 Cyanothece sp. PCC 8801, complete genome
+>gi|339717964:370581-372103 Burkholderia glumae BGR1 chromosome 2, complete sequence
+>gi|561108321:1471860-1473381 Mycobacterium tuberculosis H37Rv, complete genome
+>gi|108805998:14231-15763 Yersinia pestis Antiqua chromosome, complete genome
+>gi|428210537:2196572-2198051 Oscillatoria acuminata PCC 6304, complete genome
+>gi|525732797:1-207 Listeria monocytogenes J1-220, complete genome
+>gi|251787652:155113-156644 Dickeya zeae Ech1591, complete genome
+>gi|152983466:807091-808616 Pseudomonas aeruginosa PA7, complete genome

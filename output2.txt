@@ -1,0 +1,807 @@
+225847840	Sulfurihydrogenibium azorense Az-Fu1 
+271961609	Streptosporangium roseum DSM 43021 
+260752245	Zymomonas mobilis subsp. mobilis NCIMB 11163 
+299768250	Acinetobacter oleivorans DR1 
+222106127	Agrobacterium vitis S4 chromosome 2 
+407936729	Acidovorax sp. KKS102 
+552536492	Rhodobacter sphaeroides 2.4.1 chromosome 2 
+378448274	Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S chromosome 
+121602919	Polaromonas naphthalenivorans CJ2 
+56412276	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150 chromosome 
+387891255	Pseudomonas fluorescens A506 
+294009986	Sphingobium japonicum UT26S DNA 
+528826861	Rhizobium etli bv. mimosae str. Mim1 
+295815281	Legionella pneumophila str. Corby 
+389861738	Modestobacter marinus str. BC501 chromosome 
+384184088	Bacillus thuringiensis serovar chinensis CT-43 
+449092714	Bacillus subtilis XF-1 
+325957759	Methanobacterium sp. AL-21 chromosome 
+58036263	Corynebacterium glutamicum ATCC 13032 chromosome 
+344205421	Stenotrophomonas maltophilia JV3 
+189218017	Methylacidiphilum infernorum V4 
+523521389	Acinetobacter baumannii BJAB07104 
+269954810	Xylanimonas cellulosilytica DSM 15894 
+256419057	Chitinophaga pinensis DSM 2588 
+162448269	Sorangium cellulosum 'So ce 56' complete genome 
+322830733	Rahnella sp. Y9602 
+340785197	Collimonas fungivorans Ter331 
+339630083	Mycobacterium africanum GM041182 complete genome 
+146291111	Shewanella putrefaciens CN-32 
+376286528	Corynebacterium diphtheriae BH8 
+530316970	Paracoccus aminophilus JCM 7686 
+404285367	Listeria monocytogenes serotype 7 str. SLCC2482 
+434390831	Gloeocapsa sp. PCC 7428 
+313199777	Methylovorus sp. MP688 
+405754079	Listeria monocytogenes strain SLCC2540 
+311066968	Bacillus atrophaeus 1942 
+82542618	Shigella boydii Sb227 
+172059067	Burkholderia ambifaria MC40-6 chromosome 1 
+123440403	Yersinia enterocolitica subsp. enterocolitica 8081 chromosome 
+300087139	Dehalogenimonas lykanthroporepellens BL-DC-9 
+218437013	Cyanothece sp. PCC 7424 
+657830698	Rhodococcus sp. BCP1 chromosome 
+239904639	Desulfovibrio magneticus RS-1 DNA 
+82701135	Nitrosospira multiformis ATCC 25196 
+428778395	Dactylococcopsis salina PCC 8305 
+119382757	Paracoccus denitrificans PD1222 chromosome 1 
+147918682	Methanocella arvoryzae MRE50 chromosome 
+238892256	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA 
+154243958	Xanthobacter autotrophicus Py2 
+404412106	Listeria monocytogenes strain SLCC7179 
+443640731	Pseudomonas syringae pv. syringae B64 chromosome 
+386311792	Shewanella putrefaciens 200 
+226225406	Gemmatimonas aurantiaca T-27 DNA 
+282162670	Methanocella paludicola SANAE chromosome 
+428223461	Geitlerinema sp. PCC 7407 
+319785620	Pseudoxanthomonas suwonensis 11-1 
+15829254	Escherichia coli O157 
+384255905	Rahnella aquatilis HX2 
+431792069	Desulfitobacterium dichloroeliminans LMG P-21439 
+239916571	Micrococcus luteus NCTC 2665 
+76817237	Burkholderia pseudomallei 1710b chromosome II 
+568185322	Pseudomonas monteilii SB3101 
+89255449	Francisella tularensis subsp. holarctica LVS complete genome 
+271498578	Dickeya dadantii Ech586 
+339626328	Sulfobacillus acidophilus TPY 
+323527923	Burkholderia sp. CCGE1001 chromosome 2 
+470160151	Bacillus subtilis subsp. subtilis 6051-HGW 
+337754017	Francisella sp. TX077308 
+170758191	Clostridium botulinum A3 str. Loch Maree 
+119960487	Arthrobacter aurescens TC1 
+89892746	Desulfitobacterium hafniense Y51 DNA 
+257091663	Candidatus Accumulibacter phosphatis clade IIA str. UW-1 
+182411826	Opitutus terrae PB90-1 
+560141539	Pandoraea pnomenusa 3kgm 
+338729812	Thermotoga thermarum DSM 5069 
+254804028	Neisseria meningitidis alpha14 chromosome 
+409101468	Dehalobacter sp. DCA 
+78187984	Chlorobium chlorochromatii CaD3 
+379005799	Sulfobacillus acidophilus DSM 10332 
+221638099	Rhodobacter sphaeroides KD131 chromosome 1 
+383785713	Fervidobacterium pennivorans DSM 9078 
+226309587	Brevibacillus brevis NBRC 100599 DNA 
+646828456	Agrobacterium tumefaciens WRT31 chromosome 1 
+662858600	Listeria monocytogenes 08-5578 
+379704392	Streptococcus infantarius subsp. infantarius CJ18 
+15893298	Clostridium acetobutylicum ATCC 824 chromosome 
+334314770	Sinorhizobium meliloti AK83 chromosome 1 
+392976867	Enterobacter cloacae subsp. dissolvens SDM 
+295687459	Caulobacter segnis ATCC 21756 
+471319476	Streptomyces davawensis JCM 4913 
+110798562	Clostridium perfringens ATCC 13124 
+116332681	Lactobacillus brevis ATCC 367 
+154173617	Campylobacter curvus 525.92 
+374298386	Desulfovibrio africanus str. Walvis Bay 
+400756305	Geobacter sulfurreducens PCA chromosome 
+222109225	Acidovorax ebreus TPSY 
+116688024	Burkholderia cenocepacia HI2424 chromosome 1 
+470152509	Pectobacterium sp. SCC3193 
+116871422	Listeria welshimeri serovar 6b str. SLCC5334 complete genome 
+392380513	Azospirillum brasilense Sp245 
+297563784	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111 chromosome 2 
+169830219	Candidatus Desulforudis audaxviator MP104C 
+511542232	Flavobacterium psychrophilum JIP02/86 complete genome 
+209542188	Gluconacetobacter diazotrophicus PAl 5 
+479316944	Streptomyces sp. PAMC26508 
+284988629	Geodermatophilus obscurus DSM 43160 
+357418851	Thermovirga lienii DSM 17291 
+172056045	Exiguobacterium sibiricum 255-15 
+290473094	Xenorhabdus bovienii SS-2004 chromosome 
+414561716	Shewanella oneidensis MR-1 chromosome 
+34495455	Chromobacterium violaceum ATCC 12472 
+222084201	Agrobacterium radiobacter K84 chromosome 1 
+90421528	Rhodopseudomonas palustris BisB18 
+78060853	Burkholderia sp. 383 
+255961261	Pseudomonas fluorescens Pf0-1 
+337289620	Corynebacterium ulcerans BR-AD22 
+317126741	Bacillus cellulosilyticus DSM 2522 
+392391692	Desulfitobacterium dehalogenans ATCC 51507 
+152994043	Marinomonas sp. MWYL1 chromosome 
+300869639	Brachyspira pilosicoli 95/1000 
+108810166	Yersinia pestis Nepal516 chromosome 
+154684518	Bacillus amyloliquefaciens subsp. plantarum str. FZB42 
+189909570	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)' chromosome I 
+386845069	Actinoplanes sp. SE50/110 
+557220722	Pseudomonas sp. VLB120 
+386627502	Escherichia coli str. 'clone D i2' 
+74316018	Thiobacillus denitrificans ATCC 25259 
+409101469	Dehalobacter sp. CF 
+383318453	Methanocella conradii HZ254 chromosome 
+77358712	Coxiella burnetii RSA 493 chromosome 
+110645304	Pseudomonas aeruginosa PAO1 chromosome 
+549449290	Ralstonia pickettii DTP0602 chromosome 2 
+378953804	Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078 
+563686363	Hyphomicrobium nitrativorans NL23 
+52783855	Bacillus licheniformis DSM 13 = ATCC 14580 
+91774356	Methylobacillus flagellatus KT 
+30018278	Bacillus cereus ATCC 14579 chromosome 
+556555759	Bacillus amyloliquefaciens CC178 
+111017022	Rhodococcus jostii RHA1 
+316994385	Bacillus pseudofirmus OF4 
+333992987	Treponema azotonutricium ZAS-9 
+469816339	Rhodanobacter sp. 2APBS1 
+556503834	Escherichia coli str. K-12 substr. MG1655 
+108756767	Myxococcus xanthus DK 1622 
+269124277	Thermomonospora curvata DSM 43183 
+387823261	Escherichia coli BL21(DE3) 
+53717639	Burkholderia pseudomallei K96243 chromosome 1 
+305672698	Bacillus subtilis subsp. spizizenii str. W23 
+16763390	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome 
+16758993	Salmonella enterica subsp. enterica serovar Typhi str. CT18 
+300721089	Xenorhabdus nematophila ATCC 19061 chromosome 
+384263631	Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2 complete genome 
+386014600	Pantoea ananatis AJ13355 DNA 
+326314823	Acidovorax avenae subsp. avenae ATCC 19860 
+50196905	Bacillus anthracis str. 'Ames Ancestor' 
+409187964	Methanolobus psychrophilus R15 chromosome 
+386045634	Listeria monocytogenes J0161 
+521458881	Sorangium cellulosum So0157-2 
+52840256	Legionella pneumophila subsp. pneumophila str. Philadelphia 1 chromosome 
+255961476	Heliobacterium modesticaldum Ice1 
+326797444	Sphingobacterium sp. 21 
+307725550	Burkholderia sp. CCGE1003 chromosome 2 
+428216284	Pseudanabaena sp. PCC 7367 
+334342451	Sphingobium chlorophenolicum L-1 chromosome 2 
+194363778	Stenotrophomonas maltophilia R551-3 
+378958130	Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12 
+220915123	Anaeromyxobacter dehalogenans 2CP-1 
+384514544	Corynebacterium ulcerans 809 
+251794036	Paenibacillus sp. JDR-2 
+330819133	Burkholderia gladioli BSR3 chromosome 2 
+161519706	Burkholderia multivorans ATCC 17616 chromosome 2 
+340792956	Corynebacterium variabile DSM 44702 
+209883160	Oligotropha carboxidovorans OM5 strain OM5 
+440224888	Rhizobium tropici CIAT 899 
+162446888	Acholeplasma laidlawii PG-8A 
+325980881	Nitrosomonas sp. AL212 
+186471973	Burkholderia phymatum STM815 chromosome 2 
+376256018	Corynebacterium diphtheriae VA01 
+384162404	Bacillus amyloliquefaciens LL3 
+50083297	Acinetobacter sp. ADP1 complete genome 
+284993440	Listeria monocytogenes 08-5923 
+482897536	Azotobacter vinelandii CA6 
+148378011	Clostridium botulinum A str. ATCC 3502 chromosome 
+529235720	Proteus mirabilis BB2000 
+152968582	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 
+257386085	Halomicrobium mukohataei DSM 12286 chromosome 
+83588874	Moorella thermoacetica ATCC 39073 chromosome 
+312193897	Frankia sp. EuI1c 
+315500818	Micromonospora sp. L5 
+499074415	Mycobacterium avium subsp. paratuberculosis MAP4 
+28867243	Pseudomonas syringae pv. tomato str. DC3000 chromosome 
+86156430	Anaeromyxobacter dehalogenans 2CP-C 
+434402184	Cylindrospermum stagnale PCC 7417 
+194733902	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 chromosome 
+410687359	Campylobacter jejuni subsp. jejuni PT14 
+321311376	Bacillus subtilis BSn5 
+408355363	Amphibacillus xylanus NBRC 15112 DNA 
+153010078	Ochrobactrum anthropi ATCC 49188 chromosome 2 
+104779316	Pseudomonas entomophila str. L48 chromosome 
+521166214	Serratia plymuthica S13 
+160895450	Delftia acidovorans SPH-1 
+288932888	Klebsiella variicola At-22 
+481847813	Raoultella ornithinolytica B6 
+150395228	Sinorhizobium medicae WSM419 chromosome 
+162960844	Streptomyces avermitilis MA-4680 = NBRC 14893 DNA 
+75674199	Nitrobacter winogradskyi Nb-255 
+374992780	Desulfosporosinus orientis DSM 765 
+427705465	Nostoc sp. PCC 7107 
+146305042	Pseudomonas mendocina ymp 
+427711179	Synechococcus sp. PCC 6312 
+300781937	Amycolatopsis mediterranei U32 chromosome 
+339490182	Leuconostoc sp. C2 
+397665626	Legionella pneumophila subsp. pneumophila str. HL06041035 chromosome 
+403056439	Pectobacterium carotovorum subsp. carotovorum PCC21 
+392423459	Desulfosporosinus acidiphilus SJ4 
+78221228	Geobacter metallireducens GS-15 
+312137514	Rhodococcus equi 103S chromosome 
+315499382	Asticcacaulis excentricus CB 48 chromosome 2 
+307543589	Halomonas elongata DSM 2581 
+217963303	Listeria monocytogenes HCC23 
+330831849	Streptococcus suis ST3 
+470176208	Ilumatobacter coccineus YM16-304 DNA 
+337744364	Paenibacillus mucilaginosus KNP414 
+556577981	Campylobacter coli 15-537360 
+170734517	Burkholderia cenocepacia MC0-3 chromosome 3 
+229587578	Pseudomonas fluorescens SBW25 complete genome 
+386038690	Paenibacillus polymyxa M1 main chromosome 
+296500838	Bacillus thuringiensis BMB171 
+558678294	Bacillus thuringiensis YBT-1518 
+488768999	Clostridium pasteurianum BC1 
+317151727	Desulfovibrio aespoeensis Aspo-2 
+550443072	Klebsiella pneumoniae CG43 
+386716467	Stenotrophomonas maltophilia D457 complete genome 
+512647881	Enterobacter sp. R4-368 
+529222834	Streptomyces collinus Tu 365 
+386326719	Serratia sp. AS13 
+256827818	Desulfomicrobium baculatum DSM 4028 
+153934468	Clostridium botulinum A str. Hall chromosome 
+159184118	Agrobacterium fabrum str. C58 chromosome circular 
+292486492	Erwinia amylovora CFBP1430 complete genome 
+537432303	Clostridium stercorarium subsp. stercorarium DSM 8532 
+331693899	Pseudonocardia dioxanivorans CB1190 
+386062973	Pseudomonas aeruginosa NCGM2.S1 DNA 
+379744720	Mycobacterium intracellulare ATCC 13950 
+78185892	Chlorobium luteolum DSM 273 
+238915976	Eubacterium eligens ATCC 27750 
+448239774	Serratia marcescens WW4 
+134294128	Burkholderia vietnamiensis G4 chromosome 1 
+88607955	Neorickettsia sennetsu strain Miyayama 
+643691108	Pandoraea pnomenusa strain RB38 
+182433793	Streptomyces griseus subsp. griseus NBRC 13350 DNA 
+333922237	Desulfotomaculum carboxydivorans CO-1-SRB 
+218230750	Bacillus cereus B4264 
+296127869	Cellulomonas flavigena DSM 20109 
+379752013	Mycobacterium intracellulare MOTT-02 
+333977506	Desulfotomaculum kuznetsovii DSM 6115 
+170731356	Burkholderia cenocepacia MC0-3 chromosome 1 
+330822653	Alicycliphilus denitrificans K601 
+17227497	Nostoc sp. PCC 7120 DNA 
+387905813	Burkholderia sp. KJ006 chromosome 3 
+398349897	Sinorhizobium fredii USDA 257 
+407641178	Nocardia brasiliensis ATCC 700358 
+428205073	Chroococcidiopsis thermalis PCC 7203 
+308171891	Bacillus amyloliquefaciens DSM7 complete genome 
+357409266	Streptomyces pratensis ATCC 33331 
+225862057	Bacillus cereus 03BB102 
+386756580	Bacillus sp. JS 
+405751204	Listeria monocytogenes strain SLCC2378 
+227820587	Sinorhizobium fredii NGR234 chromosome 
+428315182	Oscillatoria nigro-viridis PCC 7112 
+386052273	Listeria monocytogenes Finland 1998 
+219870279	Haemophilus parasuis SH0165 
+426402010	Bdellovibrio bacteriovorus str. Tiberius 
+226222639	Listeria monocytogenes Clip80459 serotype 4b complete genome 
+229915734	Exiguobacterium sp. AT1b 
+302872922	Clostridium cellulovorans 743B 
+116048575	Pseudomonas aeruginosa UCBPP-PA14 
+501677485	Pseudomonas protegens CHA0 
+334343657	Sphingobium chlorophenolicum L-1 chromosome 1 
+194442203	Salmonella enterica subsp. enterica serovar Newport str. SL254 chromosome 
+300309346	Herbaspirillum seropedicae SmR1 
+126463752	Rhodobacter sphaeroides ATCC 17029 chromosome 2 
+302336548	Spirochaeta smaragdinae DSM 11293 
+167626225	Francisella philomiragia subsp. philomiragia ATCC 25017 
+378824597	Sinorhizobium fredii HH103 main chromosome 
+488607535	Streptomyces fulvissimus DSM 40593 
+311277332	Enterobacter lignolyticus SCF1 
+25026556	Corynebacterium efficiens YS-314 DNA 
+332668532	Cellulomonas fimi ATCC 484 
+523529121	Acinetobacter baumannii BJAB0715 
+386262266	Flavobacterium columnare ATCC 49512 
+428768415	Cyanobacterium aponinum PCC 10605 
+292654178	Haloferax volcanii DS2 chromosome 
+334139601	Novosphingobium sp. PP1Y main chromosome 
+428220140	Synechococcus sp. PCC 7502 
+255534169	Flavobacteriaceae bacterium 3519-10 
+379706264	Nocardia cyriacigeorgica GUH-2 
+442803496	Clostridium stercorarium subsp. stercorarium DSM 8532 
+66043271	Pseudomonas syringae pv. syringae B728a chromosome 
+242277482	Desulfovibrio salexigens DSM 2638 
+56961782	Bacillus clausii KSM-K16 DNA 
+557619566	Bacillus toyonensis BCT-7112 
+383783295	Leptospirillum ferrooxidans C2-3 DNA 
+152973854	Bacillus cytotoxicus NVH 391-98 
+336115651	Microlunatus phosphovorus NM-1 DNA 
+241202755	Rhizobium leguminosarum bv. trifolii WSM1325 
+76808520	Burkholderia pseudomallei 1710b chromosome I 
+376264031	Bacillus cereus F837/76 
+71905642	Dechloromonas aromatica RCB 
+385785459	Erwinia sp. Ejp617 
+347534971	Flavobacterium branchiophilum FL-15 
+54292964	Legionella pneumophila str. Lens 
+51594359	Yersinia pseudotuberculosis IP32953 genome 
+227812678	Bacillus anthracis str. CDC 684 
+290954631	Streptomyces scabiei 87.22 
+120608714	Acidovorax citrulli AAC00-1 
+148651817	Psychrobacter sp. PRwf-1 
+385795588	Geobacter sulfurreducens KN400 
+284163295	Haloterrigena turkmenica DSM 5511 chromosome 
+198241740	Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853 chromosome 
+317046238	Pantoea sp. At-9b 
+62388892	Corynebacterium glutamicum ATCC 13032 
+300021538	Hyphomicrobium denitrificans ATCC 51888 
+383313191	Corynebacterium pseudotuberculosis P54B96 
+158520017	Desulfococcus oleovorans Hxd3 
+428771848	Cyanobacterium stanieri PCC 7202 
+385791932	Francisella cf. novicida Fx1 
+387896523	Bacillus amyloliquefaciens Y2 
+488575046	Hyphomicrobium denitrificans 1NES1 
+383775170	Actinoplanes missouriensis 431 DNA 
+392419087	Pseudomonas stutzeri CCUG 29243 
+218885109	Desulfovibrio vulgaris str. 'Miyazaki F' 
+170754211	Clostridium botulinum B1 str. Okra 
+386353647	Streptomyces cattleya DSM 46488 
+339905954	Burkholderia glumae BGR1 chromosome 1 
+163119169	Bacillus licheniformis ATCC 14580 
+330806657	Pseudomonas brassicacearum subsp. brassicacearum NFM421 
+568125122	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061 
+120552944	Marinobacter aquaeolei VT8 
+285016821	Xanthomonas albilineans GPE PC73 chromosome 
+310657316	Clostridium sticklandii str. DSM 519 chromosome 
+568136993	Pseudomonas sp. TKP 
+57639935	Thermococcus kodakarensis KOD1 chromosome 
+357397620	Streptomyces cattleya str. NRRL 8057 main chromosome 
+116249766	Rhizobium leguminosarum bv. viciae chromosome complete genome 
+16799079	Listeria innocua Clip11262 complete genome 
+300853232	Clostridium ljungdahlii DSM 13528 
+197283915	Proteus mirabilis strain HI4320 
+29140543	Salmonella enterica subsp. enterica serovar Typhi str. Ty2 chromosome 
+385232493	Ketogulonigenium vulgarum WSH-001 chromosome 
+482892482	Azotobacter vinelandii CA 
+16120353	Yersinia pestis CO92 chromosome 
+257054089	Saccharomonospora viridis DSM 43017 
+377807392	Burkholderia sp. YI23 chromosome 3 
+75906225	Anabaena variabilis ATCC 29413 
+86604733	Synechococcus sp. JA-3-3Ab 
+386042347	Listeria monocytogenes 10403S 
+27375111	Bradyrhizobium japonicum USDA 110 chromosome 
+333924895	Serratia sp. AS12 
+296100371	Enterobacter cloacae subsp. cloacae ATCC 13047 chromosome 
+295698848	Burkholderia sp. CCGE1002 chromosome 2 
+433611795	Sinorhizobium meliloti GR4 
+162951842	Debaryomyces hansenii mitochondrion 
+138893679	Geobacillus thermodenitrificans NG80-2 
+134290884	Burkholderia vietnamiensis G4 chromosome 3 
+386009639	Pseudomonas putida BIRD-1 
+308185541	Pantoea vagans C9-1 
+134096620	Saccharopolyspora erythraea NRRL2338 complete genome 
+563649971	Geobacillus sp. JF8 
+116686245	Burkholderia cenocepacia HI2424 chromosome 3 
+15805042	Deinococcus radiodurans R1 chromosome 1 
+384528107	Sinorhizobium meliloti BL225C 
+192358779	Cellvibrio japonicus Ueda107 
+219666071	Desulfitobacterium hafniense DCB-2 
+403516668	Burkholderia pseudomallei BPC006 chromosome I 
+386617516	Escherichia coli NA114 
+427722021	Leptolyngbya sp. PCC 7376 
+253686409	Pectobacterium carotovorum subsp. carotovorum PC1 
+332139403	Pantoea ananatis LMG 20103 
+70728250	Pseudomonas protegens Pf-5 
+379699217	Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74 
+514407635	Pseudomonas aeruginosa RP73 
+378443454	Salmonella enterica subsp. enterica serovar Typhimurium str. D23580 complete genome 
+325291453	Agrobacterium sp. H13-3 circular chromosome 
+221368938	Rhodobacter sphaeroides KD131 chromosome 2 
+255767013	Bacillus subtilis subsp. subtilis str. 168 chromosome 
+568175750	Bacillus amyloliquefaciens LFB112 
+384456718	Clostridium acetobutylicum EA 2018 
+384157612	Bacillus amyloliquefaciens TA208 
+312128809	Leadbetterella byssophila DSM 17132 
+470186955	Sinorhizobium meliloti 2011 
+73537298	Ralstonia eutropha JMP134 chromosome 2 
+320100209	Desulfurococcus mucosus DSM 2162 chromosome 
+42779081	Bacillus cereus ATCC 10987 
+384044176	Bacillus megaterium WSH-002 
+300689714	Ralstonia solanacearum str. PSI07 chromosome 
+220905643	Cyanothece sp. PCC 7425 
+386048930	Listeria monocytogenes FSL R2-561 
+219853343	Clostridium kluyveri NBRC 12016 DNA 
+552535527	Rhodobacter sphaeroides 2.4.1 chromosome 1 
+379009891	Acetobacterium woodii DSM 1030 
+447915004	Pseudomonas poae RE*1-1-14 
+384145136	Amycolatopsis mediterranei S699 
+300702374	Ralstonia solanacearum CFBP2957 
+568179884	Pseudomonas monteilii SB3078 
+379718015	Paenibacillus mucilaginosus 3016 
+339492077	Pseudomonas stutzeri ATCC 17588 = LMG 11199 
+257057919	Cyanothece sp. PCC 8802 
+209547612	Rhizobium leguminosarum bv. trifolii WSM2304 
+159035674	Salinispora arenicola CNS-205 
+474978534	Streptomyces hygroscopicus subsp. jinggangensis TL01 
+284034943	Spirosoma linguale DSM 74 
+291280824	Escherichia coli O55 
+188591847	Cupriavidus taiwanensis str. LMG19424 chromosome 2 
+379733551	Blastococcus saxobsidens DD2 complete genome 
+387789281	Solitalea canadensis DSM 3403 
+407711772	Burkholderia phenoliruptrix BR3459a chromosome 1 
+170738367	Methylobacterium sp. 4-46 
+447911521	Enterococcus faecium NRRL B-2354 
+407450786	Riemerella anatipestifer RA-CH-1 
+378982542	Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 DNA 
+222093774	Bacillus cereus Q1 
+375143366	Niastella koreensis GR20-10 
+525689963	Serratia liquefaciens ATCC 27592 
+189423082	Geobacter lovleyi SZ 
+316931396	Rhodopseudomonas palustris DX-1 
+344997652	Streptomyces sp. SirexAA-E 
+157163852	Campylobacter concisus 13826 
+525721265	Listeria monocytogenes J1816 
+386712343	Halobacillus halophilus DSM 2266 complete genome 
+328541624	Polymorphum gilvum SL003B-26A1 
+320352146	Desulfobulbus propionicus DSM 2032 
+254160123	Escherichia coli B str. REL606 
+372486701	Dechlorosoma suillum PS 
+84488831	Methanosphaera stadtmanae DSM 3091 chromosome 
+357386972	Kitasatospora setae KM-6054 DNA 
+222152201	Streptococcus uberis 0140J complete genome 
+315497051	Asticcacaulis excentricus CB 48 chromosome 1 
+404279552	Listeria monocytogenes strain SLCC2755 
+470157438	Corynebacterium callunae DSM 20147 
+146309667	Enterobacter sp. 638 
+169825618	Lysinibacillus sphaericus C3-41 
+110636427	Cytophaga hutchinsonii ATCC 33406 
+530612796	Bacillus amyloliquefaciens subsp. plantarum UCMB5113 
+118462219	Mycobacterium avium 104 
+46562128	Desulfovibrio vulgaris str. Hildenborough chromosome 
+384173661	Bacillus subtilis subsp. subtilis RO-NN-1 
+91777110	Burkholderia xenovorans LB400 chromosome 2 
+187930913	Francisella tularensis subsp. mediasiatica FSC147 
+261403876	Paenibacillus sp. Y412MC10 
+333917679	Amycolicicoccus subflavus DQS3-9A1 
+470173039	Corynebacterium glutamicum K051 complete genome 
+511628970	Paenibacillus mucilaginosus K02 
+302877245	Gallionella capsiferriformans ES-2 
+397692770	Pseudomonas putida DOT-T1E chromosome 
+549451945	Ralstonia pickettii DTP0602 chromosome 3 
+402770565	Methylocystis sp. SC2 complete genome 
+378715556	Gordonia polyisoprenivorans VH2 
+399533820	Amycolatopsis mediterranei S699 
+384177910	Bacillus thuringiensis serovar finitimus YBT-020 
+163838769	Renibacterium salmoninarum ATCC 33209 
+16445223	Escherichia coli O157 
+545636471	Staphylococcus aureus subsp. aureus SA40 
+220920054	Methylobacterium nodulans ORS 2060 
+405748335	Listeria monocytogenes strain ATCC 19117 
+62178570	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 
+229818502	Beutenbergia cavernae DSM 12333 
+378947941	Pseudomonas fluorescens F113 
+452196381	Bacillus thuringiensis serovar thuringiensis str. IS5056 
+565990029	Paenibacillus polymyxa CR1 
+145592566	Salinispora tropica CNB-440 
+332980605	Mahella australiensis 50-1 BON 
+182677002	Beijerinckia indica subsp. indica ATCC 9039 
+197120421	Anaeromyxobacter sp. K 
+21226102	Methanosarcina mazei Go1 chromosome 
+219850687	Methanosphaerula palustris E1-9c chromosome 
+288956841	Azospirillum sp. B510 DNA 
+255529916	Pedobacter heparinus DSM 2366 
+30248031	Nitrosomonas europaea ATCC 19718 
+73661309	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 
+126442307	Burkholderia pseudomallei 668 chromosome II 
+32141095	Streptomyces coelicolor A3(2) chromosome 
+224988383	Mycobacterium bovis BCG str. Tokyo 172 DNA 
+386331671	Ralstonia solanacearum Po82 
+126438353	Burkholderia pseudomallei 668 chromosome I 
+253754647	Streptococcus suis BM407 chromosome 
+525968348	Ralstonia solanacearum FQY_4 
+434373506	Bacillus thuringiensis HD-789 
+157144296	Citrobacter koseri ATCC BAA-895 chromosome 
+386707734	Escherichia coli W 
+407719209	Sinorhizobium meliloti Rm41 complete genome 
+146276058	Rhodobacter sphaeroides ATCC 17025 
+406702775	Listeria monocytogenes strain L312 
+403521294	Burkholderia pseudomallei BPC006 chromosome II 
+471258602	Micavibrio aeruginosavorus EPB 
+518646702	Serratia plymuthica 4Rx13 
+148821191	Mycobacterium tuberculosis F11 
+749322072	Granulibacter bethesdensis CGDNIH3 
+158311867	Frankia sp. EAN1pec 
+119714272	Nocardioides sp. JS614 
+124265193	Methylibium petroleiphilum PM1 
+374982757	Streptomyces bingchenggensis BCW-1 
+194447306	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 chromosome 
+302341444	Desulfarculus baarsii DSM 2075 
+83718394	Burkholderia thailandensis E264 chromosome I 
+365968300	Enterobacter cloacae EcWSU1 
+347750441	Bacillus coagulans 36D1 
+317054731	Ruminococcus albus 7 
+375256816	Klebsiella oxytoca KCTC 1686 
+310814533	Ketogulonicigenium vulgare Y25 
+32447382	Tropheryma whipplei str. Twist 
+57596592	Bacillus halodurans C-125 DNA 
+345007964	Streptomyces violaceusniger Tu 4113 
+148262085	Geobacter uraniireducens Rf4 
+384534464	Sinorhizobium meliloti SM11 
+426406915	Pseudomonas sp. UW4 
+387900762	Burkholderia sp. KJ006 chromosome 1 
+383494824	Salmonella enterica subsp. enterica serovar Typhimurium str. 798 
+410477577	Leptospirillum ferriphilum ML-04 
+308066838	Paenibacillus polymyxa E681 
+302864508	Micromonospora aurantiaca ATCC 27029 
+170018061	Escherichia coli ATCC 8739 
+405756987	Listeria monocytogenes strain SLCC2479 
+374290655	Azospirillum lipoferum 4B main chromosome 
+307352168	Methanoplanus petrolearius DSM 11571 chromosome 
+472328503	Bacillus subtilis subsp. subtilis str. BAB-1 
+218901206	Bacillus cereus AH820 
+116326852	Leptospira borgpetersenii serovar Hardjo-bovis L550 chromosome 1 
+148545259	Pseudomonas putida F1 
+392981410	Pseudomonas aeruginosa DK2 
+78355047	Desulfovibrio alaskensis G20 
+189348893	Burkholderia multivorans ATCC 17616 DNA 
+387825439	Escherichia coli BL21(DE3) 
+255961475	Kineococcus radiotolerans SRS30216 
+78064658	Burkholderia sp. 383 chromosome 1 
+58616727	Ehrlichia ruminantium str. Gardel 
+253698656	Geobacter sp. M21 
+322417545	Geobacter sp. M18 
+298489614	'Nostoc azollae' 0708 
+430741030	Singulisphaera acidiphila DSM 18658 
+93004831	Psychrobacter cryohalolentis K5 
+347537839	Pseudogulbenkiania sp. NH8B DNA 
+190572091	Stenotrophomonas maltophilia K279a complete genome 
+472323176	Pseudomonas denitrificans ATCC 13867 
+16802048	Listeria monocytogenes EGD-e chromosome 
+429217735	Deinococcus peraridilitoris DSM 19664 
+190889639	Rhizobium etli CIAT 652 
+146297766	Flavobacterium johnsoniae UW101 
+333911667	Delftia sp. Cs1-4 
+237793320	Clostridium botulinum Ba4 str. 657 
+345297184	Enterobacter asburiae LF7a 
+374286830	Bacteriovorax marinus SJ 
+334338613	Desulfotomaculum ruminis DSM 2154 
+340620779	Capnocytophaga canimorsus Cc5 
+313202490	Paludibacter propionicigenes WB4 
+73667559	Methanosarcina barkeri str. Fusaro 
+431925209	Pseudomonas stutzeri RCH2 
+78059643	Burkholderia sp. 383 chromosome 3 
+116693960	Ralstonia eutropha H16 chromosome 2 
+115522030	Rhodopseudomonas palustris BisA53 
+325102757	Pedobacter saltans DSM 12145 
+378775961	Legionella pneumophila subsp. pneumophila ATCC 43290 
+557830113	Thermotoga hypogea NBRC 106472 DNA 
+92112136	Chromohalobacter salexigens DSM 3043 
+159185562	Agrobacterium fabrum str. C58 chromosome linear 
+20088899	Methanosarcina acetivorans C2A chromosome 
+557826865	Exiguobacterium sp. MH3 
+456062337	Beta proteobacterium CB 
+433601838	Saccharothrix espanaensis DSM 44229 complete genome 
+564949884	Pseudomonas aeruginosa MTB-1 
+257067223	Brachybacterium faecium DSM 4810 chromosome 
+294496875	Bacillus megaterium QM B1551 
+590001402	Comamonas testosteroni CNB-2 
+53721039	Burkholderia pseudomallei K96243 chromosome 2 
+367036261	Myceliophthora thermophila ATCC 42464 chromosome 7 
+121607004	Verminephrobacter eiseniae EF01-2 
+220910783	Arthrobacter chlorophenolicus A6 
+386006713	Listeria monocytogenes L99 serovar 4a 
+339321330	Cupriavidus necator N-1 chromosome 2 
+448236310	Geobacillus sp. GHH01 
+296137750	Tsukamurella paurometabola DSM 20162 
+323524377	Burkholderia sp. CCGE1001 chromosome 1 
+226359415	Rhodococcus opacus B4 DNA 
+222147015	Agrobacterium vitis S4 chromosome 1 
+459286451	Bradyrhizobium oligotrophicum S58 DNA 
+378976159	Klebsiella pneumoniae subsp. pneumoniae HS11286 chromosome 
+167031021	Pseudomonas putida GB-1 
+86355669	Rhizobium etli CFN 42 
+386733873	Bacillus anthracis str. H9401 
+386607309	Escherichia coli W 
+404282430	Listeria monocytogenes strain SLCC2372 
+186680550	Nostoc punctiforme PCC 73102 
+386836097	Streptomyces hygroscopicus subsp. jinggangensis 5008 
+42521650	Bdellovibrio bacteriovorus complete genome 
+430748349	Thermobacillus composti KWC4 
+386056071	Pseudomonas aeruginosa M18 
+307128764	Dickeya dadantii 3937 
+383452024	Corallococcus coralloides DSM 2259 
+119773142	Shewanella amazonensis SB2B 
+110801439	Clostridium perfringens SM101 
+488601775	Burkholderia thailandensis MSMB121 chromosome 1 
+17544719	Ralstonia solanacearum GMI1000 chromosome complete sequence 
+512550081	Chthonomonas calidirosea T49 
+218895141	Bacillus cereus G9842 
+237653092	Thauera sp. MZ1T 
+218665024	Acidithiobacillus ferrooxidans ATCC 23270 
+159896533	Herpetosiphon aurantiacus DSM 785 
+183219427	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)' chromosome I 
+30260195	Bacillus anthracis str. Ames chromosome 
+384503605	Corynebacterium pseudotuberculosis 1002 
+17988344	Brucella melitensis 16M chromosome II 
+51891138	Symbiobacterium thermophilum IAM 14863 DNA 
+170022262	Yersinia pseudotuberculosis YPIII 
+148251626	Bradyrhizobium sp. BTAi1 
+518651360	Ferroplasma acidarmanus fer1 
+568306739	Pseudomonas aeruginosa SCV20265 
+161523180	Burkholderia multivorans ATCC 17616 chromosome 1 
+386018640	Pseudomonas stutzeri DSM 4166 
+114326664	Granulibacter bethesdensis CGDNIH1 
+445058371	Staphylococcus warneri SG1 
+217957581	Bacillus cereus AH187 
+52140164	Bacillus cereus E33L 
+336065242	Erysipelothrix rhusiopathiae str. Fujisawa DNA 
+163854304	Bordetella petrii strain DSM 12804 
+162145846	Gluconacetobacter diazotrophicus PAl 5 complete genome 
+294494690	Methanohalophilus mahii DSM 5219 chromosome 
+92115633	Nitrobacter hamburgensis X14 
+523408232	Ralstonia solanacearum CMR15 chromosome 
+68535062	Corynebacterium jeikeium K411 complete genome 
+126451443	Burkholderia pseudomallei 1106a chromosome I 
+218888746	Pseudomonas aeruginosa LESB58 complete genome sequence 
+352681234	Thermoproteus tenax Kra 1 
+336112679	Bacillus coagulans 2-6 
+197116402	Geobacter bemidjiensis Bem 
+350264100	Bacillus subtilis subsp. spizizenii TU-B-10 
+378987404	Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1 
+119896292	Azoarcus sp. BH72 
+261819370	Pectobacterium wasabiae WPP163 
+170719187	Pseudomonas putida W619 
+387151873	Desulfovibrio vulgaris RCH1 
+18308982	Clostridium perfringens str. 13 DNA 
+222823046	Campylobacter lari RM2100 
+259906682	Erwinia pyrifoliae strain Ep1/96 complete chromosome 
+152979768	Janthinobacterium sp. Marseille 
+295702242	Bacillus megaterium DSM319 
+387816237	Clostridium botulinum H04402 065 
+643987992	Pseudomonas aeruginosa c7447m 
+160878162	Clostridium phytofermentans ISDg 
+33598993	Bordetella bronchiseptica strain RB50 
+333996462	Treponema primitia ZAS-2 
+188590795	Cupriavidus taiwanensis str. LMG19424 chromosome 1 
+339484941	Pseudomonas putida S16 
+113866031	Ralstonia eutropha H16 chromosome 1 
+37524032	Photorhabdus luminescens subsp. laumondii TTO1 complete genome 
+315441696	Mycobacterium gilvum Spyr1 
+521187702	Corynebacterium terpenotabidum Y-11 
+116668568	Arthrobacter sp. FB24 
+488570484	Bacillus sp. 1NLA3E 
+29345410	Bacteroides thetaiotaomicron VPI-5482 chromosome 
+49476684	Bacillus thuringiensis serovar konkukian str. 97-27 chromosome 
+337735209	Clostridium acetobutylicum DSM 1731 
+325284916	Cellulophaga lytica DSM 7489 
+307149945	Cyanothece sp. PCC 7822 
+317120849	Thermaerobacter marianensis DSM 12885 
+393198727	Solibacillus silvestris StLB046 DNA 
+375137218	Mycobacterium rhodesiae NBB3 
+644643714	Pseudomonas aeruginosa LESB65 
+153007346	Ochrobactrum anthropi ATCC 49188 chromosome 1 
+402564811	Burkholderia cepacia GG4 chromosome 1 
+384137007	Yersinia pestis A1122 
+71064581	Psychrobacter arcticus 273-4 
+171056692	Leptothrix cholodnii SP-6 
+347753732	Candidatus Chloracidobacterium thermophilum B chromosome 1 
+384260349	Rhodospirillum photometricum DSM 122 draft genome sequence 
+56475432	Azoarcus aromaticum EbN1 complete genome 
+23097455	Oceanobacillus iheyensis HTE831 DNA 
+253771435	Escherichia coli 'BL21-Gold(DE3)pLysS AG' 
+295675101	Burkholderia sp. CCGE1002 chromosome 1 
+50118965	Erwinia carotovora subsp. atroseptica SCRI1043 
+146280397	Pseudomonas stutzeri A1501 
+451344759	Bacillus amyloliquefaciens IT-45 
+296271545	Arcobacter nitrofigilis DSM 7299 
+296105497	Legionella pneumophila 2300/99 Alcoy 
+325282255	Deinococcus proteolyticus MRP 
+407703236	Bacillus thuringiensis MC28 
+58579623	Xanthomonas oryzae pv. oryzae KACC 10331 
+325961450	Arthrobacter phenanthrenivorans Sphe3 
+392413905	Mycobacterium chubuense NBB4 
+386077236	Pantoea ananatis PA13 
+319790694	Variovorax paradoxus EPS 
+332715374	Agrobacterium sp. H13-3 linear chromosome 
+294146429	Sphingobium japonicum UT26S DNA 
+91781384	Burkholderia xenovorans LB400 chromosome 1 
+310639471	Paenibacillus polymyxa SC2 
+395443650	Pseudomonas putida ND6 
+157368249	Serratia proteamaculans 568 
+170079663	Escherichia coli str. K-12 substr. DH10B chromosome 
+429503531	Bacillus amyloliquefaciens subsp. plantarum AS43.3 
+375360690	Bacillus amyloliquefaciens subsp. plantarum CAU B946 complete genome 
+294675557	Rhodobacter capsulatus SB 1003 
+121592436	Acidovorax sp. JS42 
+148552929	Sphingomonas wittichii RW1 
+54295983	Legionella pneumophila str. Paris 
+397662556	Legionella pneumophila subsp. pneumophila str. Lorraine chromosome 
+170735571	Burkholderia cenocepacia MC0-3 chromosome 2 
+375282101	Bacillus cereus NC7401 genomic DNA 
+163938013	Bacillus weihenstephanensis KBAB4 
+54021964	Nocardia farcinica IFM 10152 DNA 
+292897734	Erwinia amylovora ATCC 49946 chromosomal sequence 
+117918459	Shewanella sp. ANA-3 chromosome 1 
+15963753	Sinorhizobium meliloti 1021 chromosome 
+512576139	Pseudomonas putida H8234 
+289163353	Legionella longbeachae NSW150 
+319779749	Mesorhizobium ciceri biovar biserrulae WSM1271 chromosome 
+451942744	Corynebacterium halotolerans YIM 70093 = DSM 44683 
+528816716	Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1 
+488652559	Salmonella enterica subsp. enterica serovar Typhi str. Ty21a 
+333981747	Methylomonas methanica MC09 
+71733195	Pseudomonas syringae pv. phaseolicola 1448A 
+45655914	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130 
+347756788	Micavibrio aeruginosavorus ARL-13 
+157690798	Bacillus pumilus SAFR-032 
+412337338	Bordetella bronchiseptica 253 
+222053117	Geobacter daltonii FRC-32 
+226942170	Azotobacter vinelandii DJ 
+404212629	Gordonia sp. KTR9 
+301051741	Bacillus cereus biovar anthracis str. CI 
+126455463	Burkholderia pseudomallei 1106a chromosome II 
+119385557	Paracoccus denitrificans PD1222 chromosome 2 
+333929848	Serratia plymuthica AS9 
+656325989	Rhodococcus erythropolis R138 chromosome 
+455737153	Morganella morganii subsp. morganii KT 
+161522356	Burkholderia multivorans ATCC 17616 chromosome 3 
+17986284	Brucella melitensis bv. 1 str. 16M chromosome I 
+386025288	Listeria monocytogenes M7 
+108802856	Rubrobacter xylanophilus DSM 9941 
+374319880	Paenibacillus terrae HPL-003 
+488773889	Desulfotomaculum gibsoniae DSM 7213 
+337277607	Ramlibacter tataouinensis TTB310 
+70725001	Staphylococcus haemolyticus JCSC1435 DNA 
+115350056	Burkholderia ambifaria AMMD chromosome 1 
+145294042	Corynebacterium glutamicum R DNA 
+311103224	Achromobacter xylosoxidans A8 
+229599883	Bacillus anthracis str. A0248 
+378764971	Pantoea ananatis LMG 5342 main chromosome complete genome 
+197247352	Salmonella enterica subsp. enterica serovar Agona str. SL483 chromosome 
+471260972	Bdellovibrio exovorus JSS 
+289433373	Listeria seeligeri serovar 1/2b str. SLCC3954 complete genome 
+428200461	Pleurocapsa sp. PCC 7327 
+126460778	Rhodobacter sphaeroides ATCC 17029 chromosome 1 
+118578449	Pelobacter propionicus DSM 2379 
+532456681	Amycolatopsis mediterranei RB 
+433771415	Mesorhizobium australicum WSM2073 
+402570638	Desulfosporosinus meridiei DSM 13257 
+339324158	Cupriavidus necator N-1 chromosome 1 
+338736863	Hyphomicrobium sp. MC1 chromosome 
+387823583	Francisella cf. novicida 3523 
+336475959	Methanosalsum zhilinae DSM 4017 chromosome 
+384213726	Bradyrhizobium japonicum USDA 6 DNA 
+386855208	Deinococcus gobiensis I-0 
+145220606	Mycobacterium gilvum PYR-GCK 
+26986745	Pseudomonas putida KT2440 chromosome 
+409187965	Bacillus thuringiensis Bt407 
+85700163	Listeria monocytogenes serotype 4b str. F2365 chromosome 
+188532165	Erwinia tasmaniensis strain ET1/99 complete chromosome 
+479053932	Mycobacterium tuberculosis 7199-99 complete genome 
+494682416	Actinoplanes sp. N902-109 
+556562917	Actinoplanes friuliensis DSM 7358 
+186893344	Yersinia pseudotuberculosis PB1/+ 
+478476202	Pseudomonas aeruginosa B136-33 
+297558985	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111 chromosome 1 
+511060863	Bacillus licheniformis 9945A 
+330814956	Burkholderia gladioli BSR3 chromosome 1 
+220927459	Clostridium cellulolyticum H10 
+674708758	Bacillus subtilis subsp. natto BEST195 DNA 
+300714588	Erwinia billingiae strain Eb661 complete chromosome 
+407708765	Burkholderia phenoliruptrix BR3459a chromosome 2 
+379759437	Mycobacterium intracellulare MOTT-64 
+226354810	Deinococcus deserti VCD115 
+83591340	Rhodospirillum rubrum ATCC 11170 chromosome 
+376289208	Corynebacterium diphtheriae C7 (beta) 
+532362211	Rhodococcus erythropolis CCM2595 
+312794749	Burkholderia rhizoxinica HKI 454 
+449086670	Bacillus thuringiensis serovar kurstaki str. HD73 
+333898208	Pseudomonas fulva 12-X 
+49183039	Bacillus anthracis str. Sterne chromosome 
+153952670	Clostridium kluyveri DSM 555 
+384166624	Bacillus amyloliquefaciens XH7 
+377812245	Burkholderia sp. YI23 chromosome 2 
+523525298	Acinetobacter baumannii BJAB0868 
+387869382	Erwinia pyrifoliae DSM 12163 complete genome 
+470168442	Azoarcus sp. KH32C DNA 
+337264537	Mesorhizobium opportunistum WSM2075 
+375133618	Acinetobacter calcoaceticus PHEA-2 chromosome 
+397685123	Pseudomonas stutzeri DSM 10701 
+187918714	Burkholderia phytofirmans PsJN chromosome 2 
+170746450	Methylobacterium radiotolerans JCM 2831 
+226947222	Clostridium botulinum A2 str. Kyoto 
+187922035	Burkholderia phytofirmans PsJN chromosome 1 
+218244892	Cyanothece sp. PCC 8801 
+339717964	Burkholderia glumae BGR1 chromosome 2 
+561108321	Mycobacterium tuberculosis H37Rv 
+108805998	Yersinia pestis Antiqua chromosome 
+428210537	Oscillatoria acuminata PCC 6304 
+525732797	Listeria monocytogenes J1-220 
+251787652	Dickeya zeae Ech1591 
+152983466	Pseudomonas aeruginosa PA7 
